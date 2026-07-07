@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ProcessMind</title>
+  <link rel="stylesheet" href="/static/app.css" />
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <span class="logo">◈</span>
+      <div>
+        <h1>ProcessMind</h1>
+        <p class="tagline">See how work really happens — then fix it.</p>
+      </div>
+    </div>
+    <div class="controls">
+      <select id="dataset-select" title="Active dataset"></select>
+      <button id="btn-demo" class="primary">Load demo data</button>
+      <label class="upload-btn">Upload CSV/JSON<input id="file-input" type="file" accept=".csv,.json" hidden /></label>
+    </div>
+  </header>
+
+  <nav id="tabs">
+    <button data-tab="overview" class="active">Overview</button>
+    <button data-tab="map">Process map</button>
+    <button data-tab="findings">Findings</button>
+    <button data-tab="prediction">Prediction</button>
+    <button data-tab="simulation">Simulation</button>
+    <button data-tab="workdesign">Work design</button>
+    <button data-tab="insights">AI insights</button>
+    <button data-tab="impact">Impact</button>
+  </nav>
+
+  <main id="content">
+    <section id="empty-state">
+      <h2>No data loaded yet</h2>
+      <p>ProcessMind reconstructs your real workflow from event data — ticketing systems,
+         task managers, databases or logs. Each row needs a <code>case id</code>, an
+         <code>activity</code>, and a <code>timestamp</code> (a <code>resource</code> column
+         and extra attributes make the analysis richer).</p>
+      <p>Click <strong>Load demo data</strong> to explore a synthetic incident-handling
+         process with realistic problems baked in.</p>
+    </section>
+    <section id="tab-overview" class="tab" hidden></section>
+    <section id="tab-map" class="tab" hidden></section>
+    <section id="tab-findings" class="tab" hidden></section>
+    <section id="tab-prediction" class="tab" hidden></section>
+    <section id="tab-simulation" class="tab" hidden></section>
+    <section id="tab-workdesign" class="tab" hidden></section>
+    <section id="tab-insights" class="tab" hidden></section>
+    <section id="tab-impact" class="tab" hidden></section>
+  </main>
+
+  <div id="tooltip" hidden></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

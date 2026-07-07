@@ -1,0 +1,15 @@
+# virtual environment
+.venv/
+
+# python artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local runtime data (knowledge base accumulates locally)
+data/knowledge.json
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,1017 @@
+case_id,activity,timestamp,resource,channel,priority,missing_attachment
+INC-1000,Open Request,2026-01-25T03:11:38.871437,Noa,email,medium,no
+INC-1000,Classify Request,2026-01-25T09:02:25.276167,Avi,email,medium,no
+INC-1000,Assign Technician,2026-01-25T13:33:56.091958,Avi,email,medium,no
+INC-1000,Resolve Incident,2026-01-26T00:17:10.473988,Dana,email,medium,no
+INC-1000,Close Request,2026-01-26T01:21:19.138717,Noa,email,medium,no
+INC-1001,Open Request,2026-02-02T06:14:13.088416,Tom,portal,high,no
+INC-1001,Classify Request,2026-02-02T08:11:42.657894,Noa,portal,high,no
+INC-1001,Approve Escalation,2026-02-03T05:31:24.198654,Dana,portal,high,no
+INC-1001,Assign Technician,2026-02-03T08:55:55.611710,Avi,portal,high,no
+INC-1001,Resolve Incident,2026-02-04T00:16:01.998075,Omer,portal,high,no
+INC-1001,Close Request,2026-02-04T00:50:34.003560,Avi,portal,high,no
+INC-1002,Open Request,2026-02-15T11:43:35.671711,Noa,portal,low,yes
+INC-1002,Classify Request,2026-02-15T13:17:39.967223,Avi,portal,low,yes
+INC-1002,Request Info from Customer,2026-02-15T15:35:21.166948,Avi,portal,low,yes
+INC-1002,Receive Customer Info,2026-02-16T22:07:31.721521,Avi,portal,low,yes
+INC-1002,Classify Request,2026-02-16T22:31:55.275397,Avi,portal,low,yes
+INC-1002,Assign Technician,2026-02-16T23:59:28.982614,Avi,portal,low,yes
+INC-1002,Resolve Incident,2026-02-17T04:09:55.758662,Lior,portal,low,yes
+INC-1002,Close Request,2026-02-17T05:48:48.899239,Maya,portal,low,yes
+INC-1003,Open Request,2026-02-23T11:43:08.044273,Tom,portal,low,no
+INC-1003,Classify Request,2026-02-23T13:07:15.111015,Noa,portal,low,no
+INC-1003,Classify Request,2026-02-23T16:26:28.580692,Avi,portal,low,no
+INC-1003,Assign Technician,2026-02-23T17:50:11.068055,Avi,portal,low,no
+INC-1003,Resolve Incident,2026-02-23T22:57:14.341861,Shira,portal,low,no
+INC-1003,Close Request,2026-02-23T23:40:40.187280,Noa,portal,low,no
+INC-1004,Open Request,2026-05-02T22:28:21.549040,Maya,portal,medium,no
+INC-1004,Classify Request,2026-05-03T00:03:45.579904,Noa,portal,medium,no
+INC-1004,Classify Request,2026-05-03T00:27:14.689328,Avi,portal,medium,no
+INC-1004,Classify Request,2026-05-03T02:50:14.699188,Noa,portal,medium,no
+INC-1004,Assign Technician,2026-05-03T05:05:10.073359,Maya,portal,medium,no
+INC-1004,Resolve Incident,2026-05-03T15:35:58.353798,Shira,portal,medium,no
+INC-1004,Close Request,2026-05-03T16:40:49.131876,Noa,portal,medium,no
+INC-1005,Open Request,2026-02-23T04:16:05.914927,Maya,phone,high,no
+INC-1005,Classify Request,2026-02-23T10:23:04.631444,Avi,phone,high,no
+INC-1005,Approve Escalation,2026-02-23T23:24:58.624351,Dana,phone,high,no
+INC-1005,Assign Technician,2026-02-24T01:33:35.497426,Tom,phone,high,no
+INC-1005,Resolve Incident,2026-02-24T14:15:31.565661,Shira,phone,high,no
+INC-1005,Close Request,2026-02-24T15:21:38.223651,Maya,phone,high,no
+INC-1006,Open Request,2026-01-09T12:16:14.262126,Noa,portal,low,no
+INC-1006,Classify Request,2026-01-09T13:40:49.488649,Noa,portal,low,no
+INC-1006,Classify Request,2026-01-09T16:19:45.112289,Avi,portal,low,no
+INC-1006,Assign Technician,2026-01-09T19:48:15.705730,Avi,portal,low,no
+INC-1006,Resolve Incident,2026-01-10T04:23:30.105330,Shira,portal,low,no
+INC-1006,Close Request,2026-01-10T05:10:21.350908,Noa,portal,low,no
+INC-1007,Open Request,2026-04-21T02:40:07.145519,Tom,email,low,no
+INC-1007,Classify Request,2026-04-21T11:05:40.656408,Noa,email,low,no
+INC-1007,Classify Request,2026-04-21T12:58:08.824737,Avi,email,low,no
+INC-1007,Classify Request,2026-04-21T14:17:36.573960,Noa,email,low,no
+INC-1007,Assign Technician,2026-04-21T15:44:51.985243,Maya,email,low,no
+INC-1007,Resolve Incident,2026-04-21T19:21:05.491123,Lior,email,low,no
+INC-1007,Close Request,2026-04-21T20:20:07.395208,Tom,email,low,no
+INC-1008,Open Request,2026-04-30T09:13:44.090494,Avi,phone,low,yes
+INC-1008,Classify Request,2026-04-30T17:29:07.335303,Avi,phone,low,yes
+INC-1008,Classify Request,2026-04-30T19:36:21.730807,Noa,phone,low,yes
+INC-1008,Request Info from Customer,2026-04-30T23:31:14.375422,Avi,phone,low,yes
+INC-1008,Receive Customer Info,2026-05-02T14:50:39.222102,Avi,phone,low,yes
+INC-1008,Classify Request,2026-05-02T15:39:37.619660,Avi,phone,low,yes
+INC-1008,Assign Technician,2026-05-02T19:04:20.579047,Noa,phone,low,yes
+INC-1008,Resolve Incident,2026-05-03T01:30:44.064193,Dana,phone,low,yes
+INC-1008,Close Request,2026-05-03T03:08:24.977373,Avi,phone,low,yes
+INC-1009,Open Request,2026-03-18T19:16:34.402753,Avi,email,medium,yes
+INC-1009,Classify Request,2026-03-19T03:59:59.704399,Noa,email,medium,yes
+INC-1009,Request Info from Customer,2026-03-19T06:48:28.020420,Noa,email,medium,yes
+INC-1009,Receive Customer Info,2026-03-20T05:01:23.843287,Noa,email,medium,yes
+INC-1009,Classify Request,2026-03-20T05:55:24.786519,Noa,email,medium,yes
+INC-1009,Request Info from Customer,2026-03-20T08:03:47.412984,Noa,email,medium,yes
+INC-1009,Receive Customer Info,2026-03-22T00:07:27.636133,Noa,email,medium,yes
+INC-1009,Classify Request,2026-03-22T01:12:53.130727,Noa,email,medium,yes
+INC-1009,Assign Technician,2026-03-22T04:21:53.284186,Maya,email,medium,yes
+INC-1009,Resolve Incident,2026-03-22T08:36:57.269108,Omer,email,medium,yes
+INC-1009,Close Request,2026-03-22T09:29:51.762772,Avi,email,medium,yes
+INC-1010,Open Request,2026-03-17T17:01:02.210294,Noa,portal,medium,yes
+INC-1010,Classify Request,2026-03-17T18:10:13.717766,Avi,portal,medium,yes
+INC-1010,Classify Request,2026-03-17T19:45:18.778808,Noa,portal,medium,yes
+INC-1010,Classify Request,2026-03-17T21:21:20.417790,Avi,portal,medium,yes
+INC-1010,Request Info from Customer,2026-03-17T23:26:15.113716,Avi,portal,medium,yes
+INC-1010,Receive Customer Info,2026-03-18T20:54:14.596888,Avi,portal,medium,yes
+INC-1010,Classify Request,2026-03-18T21:30:12.777075,Avi,portal,medium,yes
+INC-1010,Assign Technician,2026-03-18T23:25:12.220796,Avi,portal,medium,yes
+INC-1010,Resolve Incident,2026-03-19T04:28:07.367658,Shira,portal,medium,yes
+INC-1010,Close Request,2026-03-19T05:33:49.105433,Tom,portal,medium,yes
+INC-1011,Open Request,2026-01-08T07:56:33.321778,Tom,email,low,yes
+INC-1011,Classify Request,2026-01-08T12:27:31.286581,Noa,email,low,yes
+INC-1011,Request Info from Customer,2026-01-08T15:40:09.265236,Noa,email,low,yes
+INC-1011,Receive Customer Info,2026-01-09T03:25:46.137106,Noa,email,low,yes
+INC-1011,Classify Request,2026-01-09T03:46:01.153429,Noa,email,low,yes
+INC-1011,Assign Technician,2026-01-09T05:15:25.392818,Avi,email,low,yes
+INC-1011,Resolve Incident,2026-01-09T10:30:57.591469,Lior,email,low,yes
+INC-1011,Close Request,2026-01-09T11:36:23.793065,Noa,email,low,yes
+INC-1012,Open Request,2026-04-06T08:36:20.778128,Maya,email,high,no
+INC-1012,Classify Request,2026-04-06T12:09:18.419238,Avi,email,high,no
+INC-1012,Approve Escalation,2026-04-07T09:07:28.398340,Dana,email,high,no
+INC-1012,Assign Technician,2026-04-07T11:20:04.589643,Noa,email,high,no
+INC-1012,Resolve Incident,2026-04-08T00:07:43.708405,Lior,email,high,no
+INC-1012,Close Request,2026-04-08T01:18:42.409321,Noa,email,high,no
+INC-1013,Open Request,2026-03-09T00:33:15.991369,Avi,email,low,no
+INC-1013,Classify Request,2026-03-09T06:08:51.630605,Avi,email,low,no
+INC-1013,Assign Technician,2026-03-09T08:04:42.029363,Maya,email,low,no
+INC-1013,Resolve Incident,2026-03-09T13:26:42.498816,Dana,email,low,no
+INC-1013,Close Request,2026-03-09T14:29:12.027796,Noa,email,low,no
+INC-1014,Open Request,2026-04-23T07:18:55.262760,Tom,email,low,no
+INC-1014,Classify Request,2026-04-23T15:03:56.850263,Noa,email,low,no
+INC-1014,Assign Technician,2026-04-23T16:57:44.739710,Noa,email,low,no
+INC-1014,Resolve Incident,2026-04-23T19:50:29.769045,Omer,email,low,no
+INC-1014,Reopen Incident,2026-04-24T15:19:23.984977,Noa,email,low,no
+INC-1014,Resolve Incident,2026-04-25T00:25:03.851186,Omer,email,low,no
+INC-1014,Close Request,2026-04-25T01:49:39.397652,Maya,email,low,no
+INC-1015,Open Request,2026-01-10T01:11:53.615332,Avi,email,medium,yes
+INC-1015,Classify Request,2026-01-10T08:41:40.246084,Avi,email,medium,yes
+INC-1015,Request Info from Customer,2026-01-10T12:11:58.743673,Avi,email,medium,yes
+INC-1015,Receive Customer Info,2026-01-11T14:19:41.448999,Avi,email,medium,yes
+INC-1015,Classify Request,2026-01-11T15:27:55.897538,Avi,email,medium,yes
+INC-1015,Assign Technician,2026-01-11T17:38:17.003889,Avi,email,medium,yes
+INC-1015,Resolve Incident,2026-01-12T07:01:50.191547,Shira,email,medium,yes
+INC-1015,Close Request,2026-01-12T08:07:43.447571,Noa,email,medium,yes
+INC-1016,Open Request,2026-04-16T13:25:38.134825,Avi,phone,high,yes
+INC-1016,Classify Request,2026-04-16T15:46:29.564262,Avi,phone,high,yes
+INC-1016,Request Info from Customer,2026-04-16T19:33:15.978822,Avi,phone,high,yes
+INC-1016,Receive Customer Info,2026-04-18T08:39:39.579067,Avi,phone,high,yes
+INC-1016,Classify Request,2026-04-18T09:59:46.595484,Avi,phone,high,yes
+INC-1016,Approve Escalation,2026-04-18T22:03:31.542676,Dana,phone,high,yes
+INC-1016,Assign Technician,2026-04-19T00:20:00.068588,Noa,phone,high,yes
+INC-1016,Resolve Incident,2026-04-19T09:55:45.955877,Omer,phone,high,yes
+INC-1016,Close Request,2026-04-19T11:15:12.997423,Avi,phone,high,yes
+INC-1017,Open Request,2026-04-22T03:42:02.083967,Noa,portal,low,no
+INC-1017,Classify Request,2026-04-22T05:34:38.175421,Avi,portal,low,no
+INC-1017,Classify Request,2026-04-22T06:31:11.886129,Noa,portal,low,no
+INC-1017,Assign Technician,2026-04-22T09:03:39.656040,Avi,portal,low,no
+INC-1017,Resolve Incident,2026-04-22T17:16:16.425790,Dana,portal,low,no
+INC-1017,Close Request,2026-04-22T18:45:48.659130,Tom,portal,low,no
+INC-1018,Open Request,2026-01-29T05:08:49.565483,Maya,portal,high,no
+INC-1018,Classify Request,2026-01-29T06:19:30.421979,Avi,portal,high,no
+INC-1018,Approve Escalation,2026-01-29T19:35:26.720473,Dana,portal,high,no
+INC-1018,Assign Technician,2026-01-29T21:09:35.023930,Maya,portal,high,no
+INC-1018,Resolve Incident,2026-01-30T05:04:49.253587,Lior,portal,high,no
+INC-1018,Close Request,2026-01-30T06:05:18.371171,Avi,portal,high,no
+INC-1019,Open Request,2026-04-24T02:28:20.482796,Avi,email,low,no
+INC-1019,Classify Request,2026-04-24T08:04:59.831313,Noa,email,low,no
+INC-1019,Assign Technician,2026-04-24T11:02:41.602967,Avi,email,low,no
+INC-1019,Resolve Incident,2026-04-24T15:29:05.159196,Omer,email,low,no
+INC-1019,Close Request,2026-04-24T16:30:09.983509,Avi,email,low,no
+INC-1020,Open Request,2026-01-24T17:05:42.877816,Noa,phone,medium,no
+INC-1020,Classify Request,2026-01-25T01:46:00.700359,Avi,phone,medium,no
+INC-1020,Assign Technician,2026-01-25T04:15:11.860017,Avi,phone,medium,no
+INC-1020,Resolve Incident,2026-01-25T14:33:15.752225,Omer,phone,medium,no
+INC-1020,Close Request,2026-01-25T16:01:36.533690,Maya,phone,medium,no
+INC-1021,Open Request,2026-03-15T02:07:24.842041,Avi,phone,high,no
+INC-1021,Classify Request,2026-03-15T07:47:02.630508,Avi,phone,high,no
+INC-1021,Classify Request,2026-03-15T09:07:29.014667,Noa,phone,high,no
+INC-1021,Approve Escalation,2026-03-16T03:45:32.937068,Dana,phone,high,no
+INC-1021,Assign Technician,2026-03-16T05:37:36.219136,Noa,phone,high,no
+INC-1021,Resolve Incident,2026-03-16T11:30:57.632720,Dana,phone,high,no
+INC-1021,Close Request,2026-03-16T12:31:13.481094,Tom,phone,high,no
+INC-1022,Open Request,2026-02-04T16:33:03.049217,Maya,portal,low,no
+INC-1022,Classify Request,2026-02-04T17:29:07.605380,Avi,portal,low,no
+INC-1022,Classify Request,2026-02-04T19:18:10.300730,Noa,portal,low,no
+INC-1022,Assign Technician,2026-02-04T21:40:59.321832,Maya,portal,low,no
+INC-1022,Resolve Incident,2026-02-04T23:51:28.891085,Shira,portal,low,no
+INC-1022,Close Request,2026-02-05T00:54:52.515031,Tom,portal,low,no
+INC-1023,Open Request,2026-04-08T15:29:41.122888,Tom,phone,low,no
+INC-1023,Classify Request,2026-04-08T17:16:12.541336,Avi,phone,low,no
+INC-1023,Assign Technician,2026-04-08T19:55:31.068919,Avi,phone,low,no
+INC-1023,Resolve Incident,2026-04-09T04:46:03.755561,Shira,phone,low,no
+INC-1023,Close Request,2026-04-09T05:53:59.215339,Maya,phone,low,no
+INC-1024,Open Request,2026-03-01T17:14:28.000752,Avi,portal,medium,no
+INC-1024,Classify Request,2026-03-01T18:05:06.524101,Noa,portal,medium,no
+INC-1024,Assign Technician,2026-03-01T21:06:33.652605,Avi,portal,medium,no
+INC-1024,Resolve Incident,2026-03-02T06:05:34.078929,Shira,portal,medium,no
+INC-1024,Close Request,2026-03-02T07:05:10.063601,Avi,portal,medium,no
+INC-1025,Open Request,2026-01-20T22:08:25.047760,Maya,email,high,yes
+INC-1025,Classify Request,2026-01-21T03:01:06.788944,Avi,email,high,yes
+INC-1025,Request Info from Customer,2026-01-21T05:58:09.227130,Avi,email,high,yes
+INC-1025,Receive Customer Info,2026-01-23T10:03:53.708310,Avi,email,high,yes
+INC-1025,Classify Request,2026-01-23T11:12:56.924120,Avi,email,high,yes
+INC-1025,Approve Escalation,2026-01-23T15:01:39.649128,Lior,email,high,yes
+INC-1025,Assign Technician,2026-01-23T17:30:39.161495,Maya,email,high,yes
+INC-1025,Resolve Incident,2026-01-24T08:33:46.144560,Dana,email,high,yes
+INC-1025,Close Request,2026-01-24T09:45:16.620697,Avi,email,high,yes
+INC-1026,Open Request,2026-04-06T01:47:31.089388,Noa,email,medium,no
+INC-1026,Classify Request,2026-04-06T06:31:03.654113,Noa,email,medium,no
+INC-1026,Assign Technician,2026-04-06T09:34:18.281637,Maya,email,medium,no
+INC-1026,Resolve Incident,2026-04-06T22:20:33.656814,Lior,email,medium,no
+INC-1026,Close Request,2026-04-06T23:15:09.519060,Tom,email,medium,no
+INC-1027,Open Request,2026-02-27T00:42:27.143953,Noa,portal,high,no
+INC-1027,Classify Request,2026-02-27T02:02:12.750791,Avi,portal,high,no
+INC-1027,Classify Request,2026-02-27T04:22:20.592061,Noa,portal,high,no
+INC-1027,Classify Request,2026-02-27T06:09:47.684118,Avi,portal,high,no
+INC-1027,Approve Escalation,2026-02-27T09:03:32.804476,Lior,portal,high,no
+INC-1027,Assign Technician,2026-02-27T11:35:48.096484,Noa,portal,high,no
+INC-1027,Resolve Incident,2026-02-27T22:04:42.491938,Shira,portal,high,no
+INC-1027,Close Request,2026-02-27T23:06:33.586971,Noa,portal,high,no
+INC-1028,Open Request,2026-03-10T11:22:11.019065,Noa,portal,low,no
+INC-1028,Classify Request,2026-03-10T12:39:17.883689,Avi,portal,low,no
+INC-1028,Classify Request,2026-03-10T14:35:02.141805,Noa,portal,low,no
+INC-1028,Assign Technician,2026-03-10T17:24:47.557030,Noa,portal,low,no
+INC-1028,Resolve Incident,2026-03-11T00:36:41.209153,Lior,portal,low,no
+INC-1028,Close Request,2026-03-11T00:53:42.978434,Avi,portal,low,no
+INC-1029,Open Request,2026-04-12T02:48:00.267772,Tom,email,high,no
+INC-1029,Classify Request,2026-04-12T11:36:01.432595,Avi,email,high,no
+INC-1029,Approve Escalation,2026-04-13T00:01:13.446404,Dana,email,high,no
+INC-1029,Assign Technician,2026-04-13T02:44:57.546906,Maya,email,high,no
+INC-1029,Resolve Incident,2026-04-13T07:14:33.492525,Lior,email,high,no
+INC-1029,Close Request,2026-04-13T08:09:38.301714,Noa,email,high,no
+INC-1030,Open Request,2026-03-05T06:09:18.231480,Avi,portal,high,yes
+INC-1030,Classify Request,2026-03-05T07:07:58.432852,Noa,portal,high,yes
+INC-1030,Request Info from Customer,2026-03-05T09:30:59.067766,Noa,portal,high,yes
+INC-1030,Receive Customer Info,2026-03-06T13:52:53.062925,Noa,portal,high,yes
+INC-1030,Classify Request,2026-03-06T14:35:01.639136,Noa,portal,high,yes
+INC-1030,Request Info from Customer,2026-03-06T16:56:26.976380,Noa,portal,high,yes
+INC-1030,Receive Customer Info,2026-03-08T04:13:41.104906,Noa,portal,high,yes
+INC-1030,Classify Request,2026-03-08T04:53:29.215758,Noa,portal,high,yes
+INC-1030,Approve Escalation,2026-03-08T11:13:01.578531,Dana,portal,high,yes
+INC-1030,Assign Technician,2026-03-08T13:01:41.489584,Avi,portal,high,yes
+INC-1030,Resolve Incident,2026-03-08T20:10:37.706755,Shira,portal,high,yes
+INC-1030,Close Request,2026-03-08T21:09:38.306959,Maya,portal,high,yes
+INC-1031,Open Request,2026-03-21T11:24:08.841592,Avi,email,low,no
+INC-1031,Classify Request,2026-03-21T16:09:03.823508,Noa,email,low,no
+INC-1031,Classify Request,2026-03-21T18:08:37.787360,Avi,email,low,no
+INC-1031,Classify Request,2026-03-21T20:15:17.024798,Noa,email,low,no
+INC-1031,Assign Technician,2026-03-21T22:43:21.200973,Tom,email,low,no
+INC-1031,Resolve Incident,2026-03-22T03:44:09.684647,Dana,email,low,no
+INC-1031,Close Request,2026-03-22T05:03:48.883507,Noa,email,low,no
+INC-1032,Open Request,2026-02-07T22:49:03.217862,Tom,email,high,no
+INC-1032,Classify Request,2026-02-08T06:23:37.599680,Avi,email,high,no
+INC-1032,Approve Escalation,2026-02-08T22:37:50.454443,Dana,email,high,no
+INC-1032,Assign Technician,2026-02-08T23:47:03.836955,Avi,email,high,no
+INC-1032,Resolve Incident,2026-02-09T10:04:38.260149,Lior,email,high,no
+INC-1032,Close Request,2026-02-09T12:15:40.918249,Tom,email,high,no
+INC-1033,Open Request,2026-04-13T20:55:41.774657,Maya,email,medium,yes
+INC-1033,Classify Request,2026-04-14T02:12:01.786106,Avi,email,medium,yes
+INC-1033,Request Info from Customer,2026-04-14T06:44:05.040081,Avi,email,medium,yes
+INC-1033,Receive Customer Info,2026-04-15T00:36:51.728486,Avi,email,medium,yes
+INC-1033,Classify Request,2026-04-15T02:01:20.225151,Avi,email,medium,yes
+INC-1033,Assign Technician,2026-04-15T04:23:00.054143,Noa,email,medium,yes
+INC-1033,Resolve Incident,2026-04-15T12:17:46.395241,Dana,email,medium,yes
+INC-1033,Close Request,2026-04-15T12:59:20.273256,Maya,email,medium,yes
+INC-1034,Open Request,2026-04-07T17:39:00.417669,Avi,email,low,no
+INC-1034,Classify Request,2026-04-08T00:31:47.711710,Noa,email,low,no
+INC-1034,Classify Request,2026-04-08T02:18:27.874918,Avi,email,low,no
+INC-1034,Assign Technician,2026-04-08T04:29:09.191712,Tom,email,low,no
+INC-1034,Resolve Incident,2026-04-08T10:29:41.360553,Omer,email,low,no
+INC-1034,Close Request,2026-04-08T11:17:09.187380,Avi,email,low,no
+INC-1035,Open Request,2026-02-07T20:19:23.718742,Maya,portal,low,no
+INC-1035,Classify Request,2026-02-07T22:05:06.968221,Noa,portal,low,no
+INC-1035,Assign Technician,2026-02-07T23:52:07.397234,Maya,portal,low,no
+INC-1035,Resolve Incident,2026-02-08T02:51:31.991466,Dana,portal,low,no
+INC-1035,Close Request,2026-02-08T03:58:36.971805,Noa,portal,low,no
+INC-1036,Open Request,2026-04-09T08:22:53.156304,Maya,portal,low,no
+INC-1036,Classify Request,2026-04-09T09:43:38.436124,Avi,portal,low,no
+INC-1036,Classify Request,2026-04-09T11:43:16.938929,Noa,portal,low,no
+INC-1036,Classify Request,2026-04-09T13:30:48.581557,Avi,portal,low,no
+INC-1036,Assign Technician,2026-04-09T15:26:00.386553,Maya,portal,low,no
+INC-1036,Resolve Incident,2026-04-09T19:39:53.948740,Dana,portal,low,no
+INC-1036,Close Request,2026-04-09T20:31:03.508810,Avi,portal,low,no
+INC-1037,Open Request,2026-01-26T04:37:46.625361,Tom,email,low,no
+INC-1037,Classify Request,2026-01-26T13:07:06.763086,Noa,email,low,no
+INC-1037,Assign Technician,2026-01-26T15:25:38.986878,Noa,email,low,no
+INC-1037,Resolve Incident,2026-01-26T21:37:33.608108,Lior,email,low,no
+INC-1037,Close Request,2026-01-26T22:46:20.448148,Noa,email,low,no
+INC-1038,Open Request,2026-05-01T02:04:50.407040,Noa,phone,low,no
+INC-1038,Classify Request,2026-05-01T07:38:55.445928,Avi,phone,low,no
+INC-1038,Classify Request,2026-05-01T08:54:39.130461,Noa,phone,low,no
+INC-1038,Classify Request,2026-05-01T09:24:31.822963,Avi,phone,low,no
+INC-1038,Assign Technician,2026-05-01T12:03:48.441752,Noa,phone,low,no
+INC-1038,Resolve Incident,2026-05-01T18:38:03.158036,Shira,phone,low,no
+INC-1038,Close Request,2026-05-01T18:56:04.023732,Avi,phone,low,no
+INC-1039,Open Request,2026-04-02T01:05:23.760549,Avi,portal,low,yes
+INC-1039,Classify Request,2026-04-02T02:27:08.177162,Noa,portal,low,yes
+INC-1039,Classify Request,2026-04-02T02:46:25.278118,Avi,portal,low,yes
+INC-1039,Request Info from Customer,2026-04-02T07:25:42.037373,Noa,portal,low,yes
+INC-1039,Receive Customer Info,2026-04-03T05:12:20.742898,Noa,portal,low,yes
+INC-1039,Classify Request,2026-04-03T06:13:32.034128,Noa,portal,low,yes
+INC-1039,Assign Technician,2026-04-03T08:05:05.186005,Noa,portal,low,yes
+INC-1039,Resolve Incident,2026-04-03T16:52:47.702147,Omer,portal,low,yes
+INC-1039,Close Request,2026-04-03T17:37:31.934232,Tom,portal,low,yes
+INC-1040,Open Request,2026-04-07T15:00:50.487292,Avi,portal,medium,no
+INC-1040,Classify Request,2026-04-07T15:49:15.168736,Avi,portal,medium,no
+INC-1040,Assign Technician,2026-04-07T16:53:53.062875,Maya,portal,medium,no
+INC-1040,Resolve Incident,2026-04-08T00:18:26.554279,Shira,portal,medium,no
+INC-1040,Close Request,2026-04-08T01:16:54.746273,Maya,portal,medium,no
+INC-1041,Open Request,2026-04-07T21:37:03.288407,Tom,email,low,no
+INC-1041,Classify Request,2026-04-08T02:51:59.026723,Noa,email,low,no
+INC-1041,Classify Request,2026-04-08T05:14:23.672745,Avi,email,low,no
+INC-1041,Assign Technician,2026-04-08T08:43:36.059563,Avi,email,low,no
+INC-1041,Resolve Incident,2026-04-08T14:46:43.153023,Dana,email,low,no
+INC-1041,Close Request,2026-04-08T15:42:03.942249,Tom,email,low,no
+INC-1042,Open Request,2026-02-25T03:44:41.535625,Avi,email,low,yes
+INC-1042,Classify Request,2026-02-25T07:32:07.686246,Avi,email,low,yes
+INC-1042,Classify Request,2026-02-25T08:29:05.105869,Noa,email,low,yes
+INC-1042,Request Info from Customer,2026-02-25T11:06:10.955231,Avi,email,low,yes
+INC-1042,Receive Customer Info,2026-02-27T11:05:34.974348,Avi,email,low,yes
+INC-1042,Classify Request,2026-02-27T11:58:45.635299,Avi,email,low,yes
+INC-1042,Assign Technician,2026-02-27T13:32:36.059680,Tom,email,low,yes
+INC-1042,Resolve Incident,2026-02-27T13:35:36.059680,Dana,email,low,yes
+INC-1042,Close Request,2026-02-27T14:33:22.564408,Tom,email,low,yes
+INC-1043,Open Request,2026-02-26T02:08:27.211585,Noa,portal,low,no
+INC-1043,Classify Request,2026-02-26T04:18:48.233867,Noa,portal,low,no
+INC-1043,Assign Technician,2026-02-26T06:17:56.336321,Maya,portal,low,no
+INC-1043,Resolve Incident,2026-02-26T08:07:43.635472,Shira,portal,low,no
+INC-1043,Reopen Incident,2026-02-26T15:31:27.467703,Maya,portal,low,no
+INC-1043,Resolve Incident,2026-02-26T23:26:25.529294,Shira,portal,low,no
+INC-1043,Close Request,2026-02-27T01:19:51.504324,Tom,portal,low,no
+INC-1044,Open Request,2026-03-07T23:19:02.181841,Noa,portal,low,no
+INC-1044,Classify Request,2026-03-08T01:16:49.183784,Avi,portal,low,no
+INC-1044,Classify Request,2026-03-08T02:44:55.596664,Noa,portal,low,no
+INC-1044,Assign Technician,2026-03-08T04:52:36.211390,Avi,portal,low,no
+INC-1044,Resolve Incident,2026-03-08T13:08:53.343835,Lior,portal,low,no
+INC-1044,Close Request,2026-03-08T13:57:55.260891,Noa,portal,low,no
+INC-1045,Open Request,2026-01-25T13:37:03.447248,Avi,portal,high,no
+INC-1045,Classify Request,2026-01-25T15:05:00.100938,Noa,portal,high,no
+INC-1045,Approve Escalation,2026-01-25T20:18:29.355843,Dana,portal,high,no
+INC-1045,Assign Technician,2026-01-26T00:05:04.651769,Avi,portal,high,no
+INC-1045,Resolve Incident,2026-01-26T08:58:13.605068,Omer,portal,high,no
+INC-1045,Close Request,2026-01-26T09:45:41.390887,Noa,portal,high,no
+INC-1046,Open Request,2026-01-17T05:58:27.243975,Maya,phone,low,no
+INC-1046,Classify Request,2026-01-17T10:50:15.462897,Noa,phone,low,no
+INC-1046,Assign Technician,2026-01-17T13:21:35.675664,Avi,phone,low,no
+INC-1046,Resolve Incident,2026-01-17T13:35:47.855190,Shira,phone,low,no
+INC-1046,Close Request,2026-01-17T14:51:03.749813,Maya,phone,low,no
+INC-1047,Open Request,2026-01-15T23:46:40.981677,Tom,phone,low,no
+INC-1047,Classify Request,2026-01-16T06:05:47.804886,Noa,phone,low,no
+INC-1047,Assign Technician,2026-01-16T06:47:06.312803,Noa,phone,low,no
+INC-1047,Resolve Incident,2026-01-16T11:25:31.130361,Shira,phone,low,no
+INC-1047,Close Request,2026-01-16T12:20:00.056003,Maya,phone,low,no
+INC-1048,Open Request,2026-02-03T07:11:52.936712,Noa,portal,medium,no
+INC-1048,Classify Request,2026-02-03T07:31:44.194320,Noa,portal,medium,no
+INC-1048,Assign Technician,2026-02-03T09:22:52.866133,Noa,portal,medium,no
+INC-1048,Resolve Incident,2026-02-04T01:34:27.414943,Omer,portal,medium,no
+INC-1048,Close Request,2026-02-04T02:32:31.165446,Maya,portal,medium,no
+INC-1049,Open Request,2026-03-22T00:15:12.635917,Tom,phone,low,yes
+INC-1049,Classify Request,2026-03-22T04:32:42.738829,Noa,phone,low,yes
+INC-1049,Request Info from Customer,2026-03-22T09:22:43.321238,Noa,phone,low,yes
+INC-1049,Receive Customer Info,2026-03-23T11:16:10.623866,Noa,phone,low,yes
+INC-1049,Classify Request,2026-03-23T12:14:49.409819,Noa,phone,low,yes
+INC-1049,Assign Technician,2026-03-23T12:48:59.104950,Noa,phone,low,yes
+INC-1049,Resolve Incident,2026-03-23T16:39:01.063576,Dana,phone,low,yes
+INC-1049,Close Request,2026-03-23T16:45:17.576767,Tom,phone,low,yes
+INC-1050,Open Request,2026-03-07T22:51:51.382248,Noa,portal,high,no
+INC-1050,Classify Request,2026-03-08T00:32:23.994813,Avi,portal,high,no
+INC-1050,Approve Escalation,2026-03-08T03:12:24.531866,Lior,portal,high,no
+INC-1050,Assign Technician,2026-03-08T05:09:51.101009,Noa,portal,high,no
+INC-1050,Resolve Incident,2026-03-08T16:25:40.820347,Shira,portal,high,no
+INC-1050,Close Request,2026-03-08T17:55:50.264380,Noa,portal,high,no
+INC-1051,Open Request,2026-01-29T15:44:06.721792,Noa,portal,low,no
+INC-1051,Classify Request,2026-01-29T17:37:05.174478,Avi,portal,low,no
+INC-1051,Classify Request,2026-01-29T19:22:01.607070,Noa,portal,low,no
+INC-1051,Assign Technician,2026-01-29T21:14:01.447874,Avi,portal,low,no
+INC-1051,Resolve Incident,2026-01-29T23:10:14.869202,Omer,portal,low,no
+INC-1051,Close Request,2026-01-30T00:16:41.521743,Tom,portal,low,no
+INC-1052,Open Request,2026-01-12T17:32:40.787126,Avi,phone,medium,yes
+INC-1052,Classify Request,2026-01-13T01:54:40.987528,Avi,phone,medium,yes
+INC-1052,Request Info from Customer,2026-01-13T05:09:34.511249,Avi,phone,medium,yes
+INC-1052,Receive Customer Info,2026-01-14T22:11:59.473452,Avi,phone,medium,yes
+INC-1052,Classify Request,2026-01-14T23:04:05.706627,Avi,phone,medium,yes
+INC-1052,Assign Technician,2026-01-15T02:05:49.783049,Maya,phone,medium,yes
+INC-1052,Resolve Incident,2026-01-15T07:12:15.528662,Lior,phone,medium,yes
+INC-1052,Close Request,2026-01-15T08:00:35.500319,Maya,phone,medium,yes
+INC-1053,Open Request,2026-01-21T04:07:07.185661,Maya,email,low,yes
+INC-1053,Classify Request,2026-01-21T08:09:51.427652,Avi,email,low,yes
+INC-1053,Request Info from Customer,2026-01-21T11:59:12.442324,Avi,email,low,yes
+INC-1053,Receive Customer Info,2026-01-22T17:03:36.530844,Avi,email,low,yes
+INC-1053,Classify Request,2026-01-22T18:35:52.576418,Avi,email,low,yes
+INC-1053,Assign Technician,2026-01-22T20:22:13.758189,Maya,email,low,yes
+INC-1053,Resolve Incident,2026-01-23T02:43:26.986684,Lior,email,low,yes
+INC-1053,Close Request,2026-01-23T03:13:48.870950,Avi,email,low,yes
+INC-1054,Open Request,2026-04-17T11:41:58.639942,Noa,portal,medium,no
+INC-1054,Classify Request,2026-04-17T13:00:13.342491,Noa,portal,medium,no
+INC-1054,Assign Technician,2026-04-17T14:18:19.579810,Avi,portal,medium,no
+INC-1054,Resolve Incident,2026-04-17T20:22:30.412217,Dana,portal,medium,no
+INC-1054,Close Request,2026-04-17T21:17:57.460936,Avi,portal,medium,no
+INC-1055,Open Request,2026-01-22T14:19:27.523648,Noa,portal,low,no
+INC-1055,Classify Request,2026-01-22T15:55:37.360004,Avi,portal,low,no
+INC-1055,Classify Request,2026-01-22T17:23:27.895987,Noa,portal,low,no
+INC-1055,Classify Request,2026-01-22T19:59:25.596728,Avi,portal,low,no
+INC-1055,Assign Technician,2026-01-22T22:03:47.758519,Noa,portal,low,no
+INC-1055,Resolve Incident,2026-01-23T01:55:14.731767,Dana,portal,low,no
+INC-1055,Close Request,2026-01-23T02:48:59.640968,Maya,portal,low,no
+INC-1056,Open Request,2026-01-30T05:04:54.787310,Maya,phone,low,no
+INC-1056,Classify Request,2026-01-30T12:15:46.833635,Avi,phone,low,no
+INC-1056,Assign Technician,2026-01-30T14:16:50.121880,Noa,phone,low,no
+INC-1056,Resolve Incident,2026-01-30T18:21:19.639380,Shira,phone,low,no
+INC-1056,Close Request,2026-01-30T19:06:50.317244,Avi,phone,low,no
+INC-1057,Open Request,2026-04-04T11:49:21.796217,Tom,portal,low,no
+INC-1057,Classify Request,2026-04-04T12:48:43.982736,Avi,portal,low,no
+INC-1057,Assign Technician,2026-04-04T15:03:39.976671,Tom,portal,low,no
+INC-1057,Resolve Incident,2026-04-04T18:54:26.652266,Shira,portal,low,no
+INC-1057,Close Request,2026-04-04T19:48:41.764886,Avi,portal,low,no
+INC-1058,Open Request,2026-03-13T08:44:06.912433,Avi,email,low,no
+INC-1058,Classify Request,2026-03-13T16:02:52.721344,Noa,email,low,no
+INC-1058,Assign Technician,2026-03-13T18:08:27.012574,Avi,email,low,no
+INC-1058,Resolve Incident,2026-03-13T22:12:59.246613,Dana,email,low,no
+INC-1058,Close Request,2026-03-13T23:33:34.237681,Tom,email,low,no
+INC-1059,Open Request,2026-01-26T09:55:52.574794,Tom,email,low,no
+INC-1059,Classify Request,2026-01-26T18:56:05.513470,Avi,email,low,no
+INC-1059,Assign Technician,2026-01-26T21:39:42.569024,Tom,email,low,no
+INC-1059,Resolve Incident,2026-01-27T02:06:48.029331,Dana,email,low,no
+INC-1059,Close Request,2026-01-27T03:35:20.196007,Maya,email,low,no
+INC-1060,Open Request,2026-04-07T08:54:30.666842,Tom,phone,medium,no
+INC-1060,Classify Request,2026-04-07T15:45:49.436288,Noa,phone,medium,no
+INC-1060,Assign Technician,2026-04-07T18:13:12.889358,Avi,phone,medium,no
+INC-1060,Resolve Incident,2026-04-08T05:04:02.121853,Dana,phone,medium,no
+INC-1060,Close Request,2026-04-08T05:44:21.815371,Maya,phone,medium,no
+INC-1061,Open Request,2026-03-18T08:40:58.560416,Maya,portal,medium,yes
+INC-1061,Classify Request,2026-03-18T10:29:22.908923,Avi,portal,medium,yes
+INC-1061,Request Info from Customer,2026-03-18T14:14:54.458028,Avi,portal,medium,yes
+INC-1061,Receive Customer Info,2026-03-19T21:45:00.126941,Avi,portal,medium,yes
+INC-1061,Classify Request,2026-03-19T22:34:48.890117,Avi,portal,medium,yes
+INC-1061,Assign Technician,2026-03-20T00:15:17.268998,Noa,portal,medium,yes
+INC-1061,Resolve Incident,2026-03-20T09:14:35.544476,Shira,portal,medium,yes
+INC-1061,Reopen Incident,2026-03-20T20:04:31.870447,Avi,portal,medium,yes
+INC-1061,Resolve Incident,2026-03-21T04:56:48.731046,Shira,portal,medium,yes
+INC-1061,Close Request,2026-03-21T05:25:50.836045,Tom,portal,medium,yes
+INC-1062,Open Request,2026-03-19T20:06:44.359187,Noa,portal,medium,no
+INC-1062,Classify Request,2026-03-19T22:11:31.198242,Avi,portal,medium,no
+INC-1062,Assign Technician,2026-03-20T00:50:14.774175,Noa,portal,medium,no
+INC-1062,Resolve Incident,2026-03-20T07:52:33.783596,Omer,portal,medium,no
+INC-1062,Close Request,2026-03-20T08:46:13.390500,Avi,portal,medium,no
+INC-1063,Open Request,2026-04-01T18:15:53.558773,Tom,portal,medium,no
+INC-1063,Classify Request,2026-04-01T19:30:31.637316,Noa,portal,medium,no
+INC-1063,Assign Technician,2026-04-01T23:11:19.785088,Noa,portal,medium,no
+INC-1063,Resolve Incident,2026-04-02T07:49:58.680271,Lior,portal,medium,no
+INC-1063,Close Request,2026-04-02T09:12:41.065119,Avi,portal,medium,no
+INC-1064,Open Request,2026-02-09T04:06:13.009920,Avi,email,medium,no
+INC-1064,Classify Request,2026-02-09T09:45:57.683649,Avi,email,medium,no
+INC-1064,Assign Technician,2026-02-09T12:46:29.120474,Avi,email,medium,no
+INC-1064,Resolve Incident,2026-02-09T20:06:47.887206,Shira,email,medium,no
+INC-1064,Close Request,2026-02-09T20:37:54.636180,Noa,email,medium,no
+INC-1065,Open Request,2026-01-07T07:45:22.417836,Maya,phone,medium,yes
+INC-1065,Classify Request,2026-01-07T15:14:42.505916,Noa,phone,medium,yes
+INC-1065,Classify Request,2026-01-07T17:44:13.776093,Avi,phone,medium,yes
+INC-1065,Classify Request,2026-01-07T20:00:57.422903,Noa,phone,medium,yes
+INC-1065,Request Info from Customer,2026-01-07T23:32:25.257938,Noa,phone,medium,yes
+INC-1065,Receive Customer Info,2026-01-08T17:26:47.469016,Noa,phone,medium,yes
+INC-1065,Classify Request,2026-01-08T17:57:40.248076,Noa,phone,medium,yes
+INC-1065,Assign Technician,2026-01-08T19:23:49.139789,Maya,phone,medium,yes
+INC-1065,Resolve Incident,2026-01-09T06:52:56.060927,Lior,phone,medium,yes
+INC-1065,Close Request,2026-01-09T08:00:35.096131,Maya,phone,medium,yes
+INC-1066,Open Request,2026-04-10T02:48:27.665552,Noa,email,high,no
+INC-1066,Classify Request,2026-04-10T09:06:39.068839,Noa,email,high,no
+INC-1066,Approve Escalation,2026-04-11T13:17:47.956987,Dana,email,high,no
+INC-1066,Assign Technician,2026-04-11T16:06:22.198962,Avi,email,high,no
+INC-1066,Resolve Incident,2026-04-12T00:16:46.729595,Omer,email,high,no
+INC-1066,Close Request,2026-04-12T00:57:04.903421,Noa,email,high,no
+INC-1067,Open Request,2026-03-24T19:50:34.928286,Tom,portal,medium,yes
+INC-1067,Classify Request,2026-03-24T20:44:10.045144,Noa,portal,medium,yes
+INC-1067,Request Info from Customer,2026-03-24T21:58:23.855112,Noa,portal,medium,yes
+INC-1067,Receive Customer Info,2026-03-26T06:42:18.618975,Noa,portal,medium,yes
+INC-1067,Classify Request,2026-03-26T08:34:07.508681,Noa,portal,medium,yes
+INC-1067,Assign Technician,2026-03-26T10:25:26.688107,Tom,portal,medium,yes
+INC-1067,Resolve Incident,2026-03-26T23:17:28.641638,Shira,portal,medium,yes
+INC-1067,Close Request,2026-03-27T00:05:24.599148,Maya,portal,medium,yes
+INC-1068,Open Request,2026-01-28T13:17:56.301105,Maya,email,low,yes
+INC-1068,Classify Request,2026-01-28T22:17:06.052456,Avi,email,low,yes
+INC-1068,Request Info from Customer,2026-01-29T00:20:19.599029,Avi,email,low,yes
+INC-1068,Receive Customer Info,2026-01-29T17:52:03.502113,Avi,email,low,yes
+INC-1068,Classify Request,2026-01-29T18:50:16.936023,Avi,email,low,yes
+INC-1068,Assign Technician,2026-01-29T20:40:19.152330,Noa,email,low,yes
+INC-1068,Resolve Incident,2026-01-30T05:45:10.106673,Lior,email,low,yes
+INC-1068,Close Request,2026-01-30T06:27:06.757493,Avi,email,low,yes
+INC-1069,Open Request,2026-04-28T16:49:43.705460,Noa,phone,high,no
+INC-1069,Classify Request,2026-04-29T02:42:54.552082,Noa,phone,high,no
+INC-1069,Classify Request,2026-04-29T04:56:48.681019,Avi,phone,high,no
+INC-1069,Approve Escalation,2026-04-30T08:24:44.717201,Dana,phone,high,no
+INC-1069,Assign Technician,2026-04-30T10:45:24.739426,Maya,phone,high,no
+INC-1069,Resolve Incident,2026-04-30T22:54:26.977419,Dana,phone,high,no
+INC-1069,Close Request,2026-05-01T00:38:00.778665,Noa,phone,high,no
+INC-1070,Open Request,2026-01-23T06:32:04.734459,Tom,portal,high,yes
+INC-1070,Classify Request,2026-01-23T07:33:39.022880,Avi,portal,high,yes
+INC-1070,Request Info from Customer,2026-01-23T10:36:12.633713,Avi,portal,high,yes
+INC-1070,Receive Customer Info,2026-01-25T06:13:13.469495,Avi,portal,high,yes
+INC-1070,Classify Request,2026-01-25T07:21:54.209376,Avi,portal,high,yes
+INC-1070,Request Info from Customer,2026-01-25T10:36:56.733957,Avi,portal,high,yes
+INC-1070,Receive Customer Info,2026-01-26T22:39:38.077475,Avi,portal,high,yes
+INC-1070,Classify Request,2026-01-26T23:59:24.272297,Avi,portal,high,yes
+INC-1070,Approve Escalation,2026-01-27T01:53:23.465302,Lior,portal,high,yes
+INC-1070,Assign Technician,2026-01-27T03:37:37.785070,Noa,portal,high,yes
+INC-1070,Resolve Incident,2026-01-27T14:21:06.003184,Shira,portal,high,yes
+INC-1070,Reopen Incident,2026-01-28T03:10:05.764124,Avi,portal,high,yes
+INC-1070,Resolve Incident,2026-01-28T04:59:38.102991,Shira,portal,high,yes
+INC-1070,Close Request,2026-01-28T05:50:55.417711,Avi,portal,high,yes
+INC-1071,Open Request,2026-03-25T09:43:07.250834,Maya,phone,low,yes
+INC-1071,Classify Request,2026-03-25T13:40:15.084742,Avi,phone,low,yes
+INC-1071,Request Info from Customer,2026-03-25T15:46:50.799966,Avi,phone,low,yes
+INC-1071,Receive Customer Info,2026-03-26T19:30:01.576994,Avi,phone,low,yes
+INC-1071,Classify Request,2026-03-26T20:10:17.329766,Avi,phone,low,yes
+INC-1071,Assign Technician,2026-03-26T23:20:48.255187,Avi,phone,low,yes
+INC-1071,Resolve Incident,2026-03-27T02:12:46.294217,Omer,phone,low,yes
+INC-1071,Close Request,2026-03-27T02:53:30.623783,Tom,phone,low,yes
+INC-1072,Open Request,2026-03-02T09:25:07.782629,Maya,portal,medium,yes
+INC-1072,Classify Request,2026-03-02T11:57:26.170629,Noa,portal,medium,yes
+INC-1072,Request Info from Customer,2026-03-02T15:01:36.739764,Noa,portal,medium,yes
+INC-1072,Receive Customer Info,2026-03-04T00:50:58.210603,Noa,portal,medium,yes
+INC-1072,Classify Request,2026-03-04T02:01:44.480738,Noa,portal,medium,yes
+INC-1072,Request Info from Customer,2026-03-04T05:07:27.133992,Noa,portal,medium,yes
+INC-1072,Receive Customer Info,2026-03-05T13:50:04.958855,Noa,portal,medium,yes
+INC-1072,Classify Request,2026-03-05T14:49:29.057821,Noa,portal,medium,yes
+INC-1072,Assign Technician,2026-03-05T18:05:21.375840,Maya,portal,medium,yes
+INC-1072,Resolve Incident,2026-03-06T02:19:17.047834,Shira,portal,medium,yes
+INC-1072,Close Request,2026-03-06T03:00:15.316620,Tom,portal,medium,yes
+INC-1073,Open Request,2026-01-23T04:51:26.764981,Avi,phone,low,yes
+INC-1073,Classify Request,2026-01-23T09:17:12.080098,Avi,phone,low,yes
+INC-1073,Request Info from Customer,2026-01-23T12:17:48.847318,Avi,phone,low,yes
+INC-1073,Receive Customer Info,2026-01-25T01:00:42.100653,Avi,phone,low,yes
+INC-1073,Classify Request,2026-01-25T02:07:12.526720,Avi,phone,low,yes
+INC-1073,Request Info from Customer,2026-01-25T04:58:20.632102,Avi,phone,low,yes
+INC-1073,Receive Customer Info,2026-01-26T12:26:16.752518,Avi,phone,low,yes
+INC-1073,Classify Request,2026-01-26T13:37:51.243502,Avi,phone,low,yes
+INC-1073,Assign Technician,2026-01-26T15:31:25.202700,Noa,phone,low,yes
+INC-1073,Resolve Incident,2026-01-26T20:53:45.957081,Shira,phone,low,yes
+INC-1073,Close Request,2026-01-26T22:00:22.077938,Noa,phone,low,yes
+INC-1074,Open Request,2026-01-06T14:51:25.990304,Tom,portal,high,yes
+INC-1074,Classify Request,2026-01-06T16:14:18.479857,Avi,portal,high,yes
+INC-1074,Request Info from Customer,2026-01-06T18:26:39.865880,Avi,portal,high,yes
+INC-1074,Receive Customer Info,2026-01-08T03:08:54.713297,Avi,portal,high,yes
+INC-1074,Classify Request,2026-01-08T04:33:41.153418,Avi,portal,high,yes
+INC-1074,Request Info from Customer,2026-01-08T09:50:26.184925,Avi,portal,high,yes
+INC-1074,Receive Customer Info,2026-01-09T18:31:15.148098,Avi,portal,high,yes
+INC-1074,Classify Request,2026-01-09T20:05:46.949608,Avi,portal,high,yes
+INC-1074,Approve Escalation,2026-01-10T14:48:28.695308,Dana,portal,high,yes
+INC-1074,Assign Technician,2026-01-10T15:36:45.696152,Tom,portal,high,yes
+INC-1074,Resolve Incident,2026-01-11T02:37:37.056342,Omer,portal,high,yes
+INC-1074,Reopen Incident,2026-01-11T23:59:11.336028,Tom,portal,high,yes
+INC-1074,Resolve Incident,2026-01-12T06:47:16.120643,Omer,portal,high,yes
+INC-1074,Close Request,2026-01-12T08:31:20.748170,Tom,portal,high,yes
+INC-1075,Open Request,2026-03-01T09:20:00.700270,Maya,portal,high,no
+INC-1075,Classify Request,2026-03-01T10:19:34.097723,Noa,portal,high,no
+INC-1075,Approve Escalation,2026-03-02T00:14:58.276197,Dana,portal,high,no
+INC-1075,Assign Technician,2026-03-02T01:54:55.276909,Avi,portal,high,no
+INC-1075,Resolve Incident,2026-03-02T16:28:48.161939,Shira,portal,high,no
+INC-1075,Close Request,2026-03-02T17:06:41.715353,Maya,portal,high,no
+INC-1076,Open Request,2026-03-10T19:46:16.294048,Avi,phone,low,no
+INC-1076,Classify Request,2026-03-11T03:11:58.907579,Noa,phone,low,no
+INC-1076,Assign Technician,2026-03-11T04:51:12.462193,Maya,phone,low,no
+INC-1076,Resolve Incident,2026-03-11T09:54:42.160018,Dana,phone,low,no
+INC-1076,Close Request,2026-03-11T11:00:21.100786,Avi,phone,low,no
+INC-1077,Open Request,2026-02-19T19:57:33.129844,Tom,email,low,yes
+INC-1077,Classify Request,2026-02-19T22:52:33.147610,Noa,email,low,yes
+INC-1077,Request Info from Customer,2026-02-20T00:39:53.020052,Noa,email,low,yes
+INC-1077,Receive Customer Info,2026-02-20T12:43:42.148609,Noa,email,low,yes
+INC-1077,Classify Request,2026-02-20T13:52:51.079316,Noa,email,low,yes
+INC-1077,Assign Technician,2026-02-20T18:29:03.475691,Maya,email,low,yes
+INC-1077,Resolve Incident,2026-02-21T02:09:17.013926,Omer,email,low,yes
+INC-1077,Close Request,2026-02-21T02:58:34.690716,Noa,email,low,yes
+INC-1078,Open Request,2026-01-17T20:28:02.083261,Avi,phone,low,yes
+INC-1078,Classify Request,2026-01-17T20:31:02.083261,Avi,phone,low,yes
+INC-1078,Classify Request,2026-01-17T23:07:41.646105,Noa,phone,low,yes
+INC-1078,Classify Request,2026-01-18T01:00:13.254820,Avi,phone,low,yes
+INC-1078,Request Info from Customer,2026-01-18T05:37:30.952795,Avi,phone,low,yes
+INC-1078,Receive Customer Info,2026-01-19T19:01:55.950425,Avi,phone,low,yes
+INC-1078,Classify Request,2026-01-19T20:30:32.461120,Avi,phone,low,yes
+INC-1078,Assign Technician,2026-01-19T22:53:19.898899,Avi,phone,low,yes
+INC-1078,Resolve Incident,2026-01-20T04:57:55.703357,Dana,phone,low,yes
+INC-1078,Close Request,2026-01-20T05:50:40.362965,Noa,phone,low,yes
+INC-1079,Open Request,2026-03-24T19:16:54.880826,Maya,phone,low,no
+INC-1079,Classify Request,2026-03-25T01:11:25.373371,Avi,phone,low,no
+INC-1079,Classify Request,2026-03-25T02:22:09.253308,Noa,phone,low,no
+INC-1079,Assign Technician,2026-03-25T05:29:40.291544,Noa,phone,low,no
+INC-1079,Resolve Incident,2026-03-25T08:24:15.070817,Dana,phone,low,no
+INC-1079,Close Request,2026-03-25T09:06:24.828493,Noa,phone,low,no
+INC-1080,Open Request,2026-02-19T19:27:35.909046,Avi,phone,low,no
+INC-1080,Classify Request,2026-02-20T03:35:32.129031,Avi,phone,low,no
+INC-1080,Assign Technician,2026-02-20T06:23:37.141111,Tom,phone,low,no
+INC-1080,Resolve Incident,2026-02-20T11:39:00.430416,Dana,phone,low,no
+INC-1080,Reopen Incident,2026-02-20T17:53:26.822600,Noa,phone,low,no
+INC-1080,Resolve Incident,2026-02-21T01:25:36.826916,Dana,phone,low,no
+INC-1080,Close Request,2026-02-21T02:02:16.490311,Noa,phone,low,no
+INC-1081,Open Request,2026-04-05T18:41:27.412663,Avi,phone,medium,no
+INC-1081,Classify Request,2026-04-06T03:01:06.612940,Noa,phone,medium,no
+INC-1081,Assign Technician,2026-04-06T07:06:31.026824,Avi,phone,medium,no
+INC-1081,Resolve Incident,2026-04-06T15:44:31.070494,Shira,phone,medium,no
+INC-1081,Close Request,2026-04-06T16:41:28.683355,Avi,phone,medium,no
+INC-1082,Open Request,2026-04-04T03:34:49.068950,Tom,email,high,no
+INC-1082,Classify Request,2026-04-04T10:23:16.114270,Avi,email,high,no
+INC-1082,Classify Request,2026-04-04T12:17:03.865650,Noa,email,high,no
+INC-1082,Approve Escalation,2026-04-04T16:42:11.627320,Lior,email,high,no
+INC-1082,Assign Technician,2026-04-04T19:41:24.786413,Avi,email,high,no
+INC-1082,Resolve Incident,2026-04-04T22:54:42.402206,Omer,email,high,no
+INC-1082,Close Request,2026-04-04T23:32:15.322226,Maya,email,high,no
+INC-1083,Open Request,2026-01-11T11:47:28.095262,Avi,email,low,no
+INC-1083,Classify Request,2026-01-11T19:49:11.533501,Avi,email,low,no
+INC-1083,Assign Technician,2026-01-11T23:17:43.565274,Tom,email,low,no
+INC-1083,Resolve Incident,2026-01-12T02:09:30.801515,Shira,email,low,no
+INC-1083,Close Request,2026-01-12T03:08:56.767083,Noa,email,low,no
+INC-1084,Open Request,2026-04-03T17:19:14.146971,Noa,portal,medium,no
+INC-1084,Classify Request,2026-04-03T18:03:56.271133,Avi,portal,medium,no
+INC-1084,Classify Request,2026-04-03T21:56:47.269498,Noa,portal,medium,no
+INC-1084,Assign Technician,2026-04-04T00:42:32.344562,Noa,portal,medium,no
+INC-1084,Resolve Incident,2026-04-04T07:02:41.877375,Omer,portal,medium,no
+INC-1084,Close Request,2026-04-04T07:35:43.054855,Noa,portal,medium,no
+INC-1085,Open Request,2026-01-21T13:45:44.747219,Tom,email,low,no
+INC-1085,Classify Request,2026-01-21T18:57:18.069038,Noa,email,low,no
+INC-1085,Assign Technician,2026-01-21T21:58:27.024840,Avi,email,low,no
+INC-1085,Resolve Incident,2026-01-22T02:42:58.571693,Dana,email,low,no
+INC-1085,Close Request,2026-01-22T03:50:04.410122,Tom,email,low,no
+INC-1086,Open Request,2026-03-24T10:24:01.379034,Noa,portal,medium,no
+INC-1086,Classify Request,2026-03-24T12:12:41.726746,Avi,portal,medium,no
+INC-1086,Assign Technician,2026-03-24T16:22:19.033851,Avi,portal,medium,no
+INC-1086,Resolve Incident,2026-03-25T00:03:15.813712,Lior,portal,medium,no
+INC-1086,Close Request,2026-03-25T00:49:01.199967,Noa,portal,medium,no
+INC-1087,Open Request,2026-02-21T01:56:35.644138,Noa,phone,low,no
+INC-1087,Classify Request,2026-02-21T07:47:35.812595,Avi,phone,low,no
+INC-1087,Assign Technician,2026-02-21T09:00:31.351526,Noa,phone,low,no
+INC-1087,Resolve Incident,2026-02-21T13:08:18.825568,Omer,phone,low,no
+INC-1087,Close Request,2026-02-21T14:49:20.590407,Noa,phone,low,no
+INC-1088,Open Request,2026-03-17T13:45:54.722152,Maya,portal,medium,no
+INC-1088,Classify Request,2026-03-17T16:03:25.522552,Noa,portal,medium,no
+INC-1088,Assign Technician,2026-03-17T17:55:44.057065,Noa,portal,medium,no
+INC-1088,Resolve Incident,2026-03-18T03:03:20.732548,Lior,portal,medium,no
+INC-1088,Close Request,2026-03-18T03:23:36.143313,Tom,portal,medium,no
+INC-1089,Open Request,2026-03-15T13:43:28.565235,Noa,portal,high,no
+INC-1089,Classify Request,2026-03-15T14:51:51.844453,Noa,portal,high,no
+INC-1089,Approve Escalation,2026-03-15T16:14:23.748408,Lior,portal,high,no
+INC-1089,Assign Technician,2026-03-15T17:51:06.447116,Noa,portal,high,no
+INC-1089,Resolve Incident,2026-03-15T22:18:00.342612,Lior,portal,high,no
+INC-1089,Close Request,2026-03-15T23:53:22.954504,Maya,portal,high,no
+INC-1090,Open Request,2026-03-03T04:31:58.972072,Tom,portal,low,yes
+INC-1090,Classify Request,2026-03-03T05:35:29.858875,Avi,portal,low,yes
+INC-1090,Request Info from Customer,2026-03-03T08:58:29.413244,Avi,portal,low,yes
+INC-1090,Receive Customer Info,2026-03-04T08:47:54.151731,Avi,portal,low,yes
+INC-1090,Classify Request,2026-03-04T09:24:27.781053,Avi,portal,low,yes
+INC-1090,Assign Technician,2026-03-04T13:18:58.815904,Noa,portal,low,yes
+INC-1090,Resolve Incident,2026-03-04T18:10:24.558839,Dana,portal,low,yes
+INC-1090,Close Request,2026-03-04T19:11:09.121553,Tom,portal,low,yes
+INC-1091,Open Request,2026-04-22T22:02:17.079799,Avi,portal,medium,no
+INC-1091,Classify Request,2026-04-22T23:55:45.537705,Avi,portal,medium,no
+INC-1091,Classify Request,2026-04-23T01:57:50.239923,Noa,portal,medium,no
+INC-1091,Classify Request,2026-04-23T04:29:05.282763,Avi,portal,medium,no
+INC-1091,Assign Technician,2026-04-23T06:31:48.071994,Noa,portal,medium,no
+INC-1091,Resolve Incident,2026-04-23T19:14:59.046457,Shira,portal,medium,no
+INC-1091,Reopen Incident,2026-04-24T05:39:27.338304,Tom,portal,medium,no
+INC-1091,Resolve Incident,2026-04-24T08:09:30.732717,Shira,portal,medium,no
+INC-1091,Close Request,2026-04-24T09:03:59.869318,Noa,portal,medium,no
+INC-1092,Open Request,2026-04-15T16:24:01.138362,Tom,email,low,no
+INC-1092,Classify Request,2026-04-16T01:14:38.123699,Avi,email,low,no
+INC-1092,Assign Technician,2026-04-16T02:53:46.523342,Tom,email,low,no
+INC-1092,Resolve Incident,2026-04-16T08:02:49.032474,Omer,email,low,no
+INC-1092,Close Request,2026-04-16T09:03:23.015656,Maya,email,low,no
+INC-1093,Open Request,2026-01-27T06:22:43.737556,Avi,email,low,yes
+INC-1093,Classify Request,2026-01-27T08:47:49.673452,Avi,email,low,yes
+INC-1093,Request Info from Customer,2026-01-27T12:09:55.858215,Avi,email,low,yes
+INC-1093,Receive Customer Info,2026-01-29T10:14:09.736146,Avi,email,low,yes
+INC-1093,Classify Request,2026-01-29T11:29:44.257229,Avi,email,low,yes
+INC-1093,Assign Technician,2026-01-29T13:23:17.634232,Noa,email,low,yes
+INC-1093,Resolve Incident,2026-01-29T18:10:43.651055,Shira,email,low,yes
+INC-1093,Close Request,2026-01-29T19:31:02.656986,Noa,email,low,yes
+INC-1094,Open Request,2026-01-26T23:28:24.672054,Noa,portal,low,no
+INC-1094,Classify Request,2026-01-27T00:54:39.670573,Avi,portal,low,no
+INC-1094,Classify Request,2026-01-27T02:34:03.718754,Noa,portal,low,no
+INC-1094,Classify Request,2026-01-27T03:54:33.423832,Avi,portal,low,no
+INC-1094,Assign Technician,2026-01-27T06:49:14.727868,Maya,portal,low,no
+INC-1094,Resolve Incident,2026-01-27T10:10:41.561251,Dana,portal,low,no
+INC-1094,Close Request,2026-01-27T11:08:19.133084,Noa,portal,low,no
+INC-1095,Open Request,2026-04-01T08:15:22.653206,Maya,email,high,yes
+INC-1095,Classify Request,2026-04-01T15:24:34.212884,Avi,email,high,yes
+INC-1095,Request Info from Customer,2026-04-01T19:47:53.861553,Avi,email,high,yes
+INC-1095,Receive Customer Info,2026-04-03T18:48:27.795556,Avi,email,high,yes
+INC-1095,Classify Request,2026-04-03T19:27:30.156720,Avi,email,high,yes
+INC-1095,Approve Escalation,2026-04-04T17:19:48.738948,Dana,email,high,yes
+INC-1095,Assign Technician,2026-04-04T19:18:04.820246,Maya,email,high,yes
+INC-1095,Resolve Incident,2026-04-05T07:40:13.346488,Shira,email,high,yes
+INC-1095,Close Request,2026-04-05T09:27:10.026943,Tom,email,high,yes
+INC-1096,Open Request,2026-01-15T11:00:33.674541,Avi,phone,medium,no
+INC-1096,Classify Request,2026-01-15T16:24:50.558028,Noa,phone,medium,no
+INC-1096,Assign Technician,2026-01-15T18:23:04.259114,Avi,phone,medium,no
+INC-1096,Resolve Incident,2026-01-16T04:17:48.703212,Shira,phone,medium,no
+INC-1096,Close Request,2026-01-16T05:00:57.828330,Avi,phone,medium,no
+INC-1097,Open Request,2026-03-24T03:34:14.285550,Maya,portal,low,no
+INC-1097,Classify Request,2026-03-24T05:07:56.671258,Avi,portal,low,no
+INC-1097,Classify Request,2026-03-24T07:05:36.508485,Noa,portal,low,no
+INC-1097,Classify Request,2026-03-24T09:21:53.705124,Avi,portal,low,no
+INC-1097,Assign Technician,2026-03-24T10:14:48.504939,Noa,portal,low,no
+INC-1097,Resolve Incident,2026-03-24T15:10:48.392859,Dana,portal,low,no
+INC-1097,Close Request,2026-03-24T15:43:13.593893,Avi,portal,low,no
+INC-1098,Open Request,2026-02-03T07:46:39.995797,Avi,portal,medium,yes
+INC-1098,Classify Request,2026-02-03T09:43:17.479438,Avi,portal,medium,yes
+INC-1098,Classify Request,2026-02-03T11:33:58.680711,Noa,portal,medium,yes
+INC-1098,Classify Request,2026-02-03T14:49:29.147903,Avi,portal,medium,yes
+INC-1098,Request Info from Customer,2026-02-03T16:40:06.080214,Avi,portal,medium,yes
+INC-1098,Receive Customer Info,2026-02-04T12:51:34.201892,Avi,portal,medium,yes
+INC-1098,Classify Request,2026-02-04T13:48:01.824442,Avi,portal,medium,yes
+INC-1098,Request Info from Customer,2026-02-04T16:32:23.709976,Avi,portal,medium,yes
+INC-1098,Receive Customer Info,2026-02-06T15:43:05.023752,Avi,portal,medium,yes
+INC-1098,Classify Request,2026-02-06T16:48:03.781550,Avi,portal,medium,yes
+INC-1098,Assign Technician,2026-02-06T19:39:34.727749,Tom,portal,medium,yes
+INC-1098,Resolve Incident,2026-02-07T09:17:31.073140,Shira,portal,medium,yes
+INC-1098,Close Request,2026-02-07T10:24:45.264884,Avi,portal,medium,yes
+INC-1099,Open Request,2026-02-14T23:59:16.733414,Avi,email,low,no
+INC-1099,Classify Request,2026-02-15T07:44:58.631036,Noa,email,low,no
+INC-1099,Assign Technician,2026-02-15T09:12:14.354001,Tom,email,low,no
+INC-1099,Resolve Incident,2026-02-15T16:21:37.462453,Shira,email,low,no
+INC-1099,Close Request,2026-02-15T16:52:58.990149,Avi,email,low,no
+INC-1100,Open Request,2026-05-02T23:31:13.777054,Noa,phone,low,yes
+INC-1100,Classify Request,2026-05-03T06:05:55.143880,Avi,phone,low,yes
+INC-1100,Request Info from Customer,2026-05-03T08:33:13.776901,Avi,phone,low,yes
+INC-1100,Receive Customer Info,2026-05-03T23:36:56.543934,Avi,phone,low,yes
+INC-1100,Classify Request,2026-05-04T01:08:43.055247,Avi,phone,low,yes
+INC-1100,Request Info from Customer,2026-05-04T04:58:04.661715,Avi,phone,low,yes
+INC-1100,Receive Customer Info,2026-05-05T10:46:29.773048,Avi,phone,low,yes
+INC-1100,Classify Request,2026-05-05T11:19:53.216548,Avi,phone,low,yes
+INC-1100,Assign Technician,2026-05-05T13:22:42.007025,Tom,phone,low,yes
+INC-1100,Resolve Incident,2026-05-05T18:58:07.659892,Shira,phone,low,yes
+INC-1100,Close Request,2026-05-05T20:04:36.166166,Tom,phone,low,yes
+INC-1101,Open Request,2026-04-18T16:20:36.821521,Tom,portal,low,no
+INC-1101,Classify Request,2026-04-18T17:16:06.806255,Noa,portal,low,no
+INC-1101,Assign Technician,2026-04-18T20:21:39.160133,Maya,portal,low,no
+INC-1101,Resolve Incident,2026-04-19T01:57:58.617147,Dana,portal,low,no
+INC-1101,Close Request,2026-04-19T02:55:53.085049,Avi,portal,low,no
+INC-1102,Open Request,2026-05-04T13:26:34.927503,Avi,portal,low,no
+INC-1102,Classify Request,2026-05-04T15:28:45.079938,Noa,portal,low,no
+INC-1102,Assign Technician,2026-05-04T16:40:28.672573,Maya,portal,low,no
+INC-1102,Resolve Incident,2026-05-04T22:53:52.389964,Dana,portal,low,no
+INC-1102,Close Request,2026-05-04T23:57:18.113746,Avi,portal,low,no
+INC-1103,Open Request,2026-03-05T01:12:54.695311,Maya,email,low,no
+INC-1103,Classify Request,2026-03-05T06:02:55.270533,Noa,email,low,no
+INC-1103,Assign Technician,2026-03-05T08:45:51.343951,Avi,email,low,no
+INC-1103,Resolve Incident,2026-03-05T11:26:08.080071,Omer,email,low,no
+INC-1103,Close Request,2026-03-05T11:54:48.689266,Tom,email,low,no
+INC-1104,Open Request,2026-02-21T14:03:56.904982,Noa,portal,medium,yes
+INC-1104,Classify Request,2026-02-21T15:32:55.606000,Avi,portal,medium,yes
+INC-1104,Request Info from Customer,2026-02-21T19:23:02.829136,Avi,portal,medium,yes
+INC-1104,Receive Customer Info,2026-02-23T08:22:46.969817,Avi,portal,medium,yes
+INC-1104,Classify Request,2026-02-23T09:01:14.058528,Avi,portal,medium,yes
+INC-1104,Assign Technician,2026-02-23T10:26:21.646454,Avi,portal,medium,yes
+INC-1104,Resolve Incident,2026-02-23T18:55:36.571536,Dana,portal,medium,yes
+INC-1104,Close Request,2026-02-23T20:16:04.379013,Tom,portal,medium,yes
+INC-1105,Open Request,2026-01-09T03:51:25.131927,Noa,portal,medium,yes
+INC-1105,Classify Request,2026-01-09T06:03:57.979000,Noa,portal,medium,yes
+INC-1105,Request Info from Customer,2026-01-09T09:47:46.127556,Noa,portal,medium,yes
+INC-1105,Receive Customer Info,2026-01-11T07:16:11.385715,Noa,portal,medium,yes
+INC-1105,Classify Request,2026-01-11T08:24:33.666712,Noa,portal,medium,yes
+INC-1105,Assign Technician,2026-01-11T09:49:43.970284,Tom,portal,medium,yes
+INC-1105,Resolve Incident,2026-01-11T19:29:36.324199,Omer,portal,medium,yes
+INC-1105,Close Request,2026-01-11T20:57:51.568244,Tom,portal,medium,yes
+INC-1106,Open Request,2026-01-17T12:53:46.437000,Avi,email,medium,yes
+INC-1106,Classify Request,2026-01-17T19:07:20.126173,Noa,email,medium,yes
+INC-1106,Classify Request,2026-01-17T21:45:55.603009,Avi,email,medium,yes
+INC-1106,Classify Request,2026-01-17T23:16:59.907556,Noa,email,medium,yes
+INC-1106,Request Info from Customer,2026-01-18T01:22:35.049572,Noa,email,medium,yes
+INC-1106,Receive Customer Info,2026-01-19T10:45:54.277780,Noa,email,medium,yes
+INC-1106,Classify Request,2026-01-19T11:10:49.576789,Noa,email,medium,yes
+INC-1106,Assign Technician,2026-01-19T14:19:17.493454,Avi,email,medium,yes
+INC-1106,Resolve Incident,2026-01-19T21:58:00.158721,Omer,email,medium,yes
+INC-1106,Close Request,2026-01-19T23:10:38.435745,Tom,email,medium,yes
+INC-1107,Open Request,2026-02-02T14:35:34.003259,Maya,phone,medium,no
+INC-1107,Classify Request,2026-02-02T21:45:12.111003,Avi,phone,medium,no
+INC-1107,Assign Technician,2026-02-03T00:00:14.049611,Noa,phone,medium,no
+INC-1107,Resolve Incident,2026-02-03T15:24:35.116176,Dana,phone,medium,no
+INC-1107,Close Request,2026-02-03T16:45:32.380762,Tom,phone,medium,no
+INC-1108,Open Request,2026-04-12T02:20:30.428188,Maya,email,medium,no
+INC-1108,Classify Request,2026-04-12T08:27:12.952917,Noa,email,medium,no
+INC-1108,Assign Technician,2026-04-12T08:51:36.214861,Avi,email,medium,no
+INC-1108,Resolve Incident,2026-04-12T20:51:57.181606,Lior,email,medium,no
+INC-1108,Close Request,2026-04-12T21:21:23.689637,Noa,email,medium,no
+INC-1109,Open Request,2026-02-22T06:26:55.846318,Avi,email,medium,no
+INC-1109,Classify Request,2026-02-22T12:09:40.210204,Noa,email,medium,no
+INC-1109,Assign Technician,2026-02-22T15:19:32.922749,Maya,email,medium,no
+INC-1109,Resolve Incident,2026-02-22T21:41:22.475046,Omer,email,medium,no
+INC-1109,Close Request,2026-02-22T22:56:09.315980,Avi,email,medium,no
+INC-1110,Open Request,2026-02-07T07:55:44.346736,Avi,portal,medium,no
+INC-1110,Classify Request,2026-02-07T10:20:07.366930,Noa,portal,medium,no
+INC-1110,Assign Technician,2026-02-07T10:55:58.999281,Maya,portal,medium,no
+INC-1110,Resolve Incident,2026-02-07T17:43:24.169146,Shira,portal,medium,no
+INC-1110,Reopen Incident,2026-02-08T07:33:15.810503,Maya,portal,medium,no
+INC-1110,Resolve Incident,2026-02-08T16:30:57.155946,Shira,portal,medium,no
+INC-1110,Close Request,2026-02-08T17:54:57.090329,Tom,portal,medium,no
+INC-1111,Open Request,2026-04-15T21:27:51.564224,Tom,phone,high,no
+INC-1111,Classify Request,2026-04-16T05:03:35.216839,Avi,phone,high,no
+INC-1111,Approve Escalation,2026-04-17T10:02:04.605980,Dana,phone,high,no
+INC-1111,Assign Technician,2026-04-17T11:58:45.014758,Tom,phone,high,no
+INC-1111,Resolve Incident,2026-04-18T02:05:18.673522,Dana,phone,high,no
+INC-1111,Close Request,2026-04-18T02:31:01.270815,Tom,phone,high,no
+INC-1112,Open Request,2026-02-08T00:57:17.609195,Avi,portal,low,no
+INC-1112,Classify Request,2026-02-08T01:16:43.831326,Avi,portal,low,no
+INC-1112,Assign Technician,2026-02-08T03:44:27.840485,Maya,portal,low,no
+INC-1112,Resolve Incident,2026-02-08T09:06:14.949678,Lior,portal,low,no
+INC-1112,Close Request,2026-02-08T10:24:49.933484,Avi,portal,low,no
+INC-1113,Open Request,2026-05-02T07:51:15.630436,Maya,portal,medium,no
+INC-1113,Classify Request,2026-05-02T09:35:36.439788,Avi,portal,medium,no
+INC-1113,Classify Request,2026-05-02T11:07:47.521292,Noa,portal,medium,no
+INC-1113,Classify Request,2026-05-02T13:02:10.065933,Avi,portal,medium,no
+INC-1113,Assign Technician,2026-05-02T14:16:01.453483,Avi,portal,medium,no
+INC-1113,Resolve Incident,2026-05-02T23:25:01.459159,Dana,portal,medium,no
+INC-1113,Close Request,2026-05-03T00:22:06.993713,Maya,portal,medium,no
+INC-1114,Open Request,2026-03-31T15:12:22.440672,Maya,email,low,no
+INC-1114,Classify Request,2026-03-31T22:19:33.564066,Noa,email,low,no
+INC-1114,Assign Technician,2026-04-01T01:10:40.318308,Noa,email,low,no
+INC-1114,Resolve Incident,2026-04-01T04:33:19.470233,Dana,email,low,no
+INC-1114,Close Request,2026-04-01T05:13:27.525307,Noa,email,low,no
+INC-1115,Open Request,2026-01-21T17:04:35.868191,Tom,email,high,no
+INC-1115,Classify Request,2026-01-22T00:14:31.174072,Avi,email,high,no
+INC-1115,Approve Escalation,2026-01-22T18:21:14.005790,Dana,email,high,no
+INC-1115,Assign Technician,2026-01-22T21:40:05.621398,Maya,email,high,no
+INC-1115,Resolve Incident,2026-01-23T07:28:59.108519,Shira,email,high,no
+INC-1115,Close Request,2026-01-23T08:53:41.516321,Maya,email,high,no
+INC-1116,Open Request,2026-02-15T11:46:43.582486,Avi,portal,low,no
+INC-1116,Classify Request,2026-02-15T13:13:57.312149,Avi,portal,low,no
+INC-1116,Assign Technician,2026-02-15T16:07:37.897584,Tom,portal,low,no
+INC-1116,Resolve Incident,2026-02-16T01:09:06.685835,Lior,portal,low,no
+INC-1116,Close Request,2026-02-16T01:52:31.129085,Avi,portal,low,no
+INC-1117,Open Request,2026-01-27T08:16:29.700513,Tom,portal,medium,no
+INC-1117,Classify Request,2026-01-27T09:22:49.858962,Avi,portal,medium,no
+INC-1117,Assign Technician,2026-01-27T12:33:16.826404,Tom,portal,medium,no
+INC-1117,Resolve Incident,2026-01-27T18:42:37.961395,Lior,portal,medium,no
+INC-1117,Close Request,2026-01-27T19:59:33.380431,Tom,portal,medium,no
+INC-1118,Open Request,2026-03-24T21:04:37.225400,Maya,email,low,no
+INC-1118,Classify Request,2026-03-25T01:36:37.049123,Avi,email,low,no
+INC-1118,Assign Technician,2026-03-25T03:14:38.785888,Noa,email,low,no
+INC-1118,Resolve Incident,2026-03-25T10:01:56.943653,Omer,email,low,no
+INC-1118,Close Request,2026-03-25T11:23:07.773320,Avi,email,low,no
+INC-1119,Open Request,2026-02-14T02:30:26.157697,Tom,phone,low,yes
+INC-1119,Classify Request,2026-02-14T09:26:34.782749,Noa,phone,low,yes
+INC-1119,Request Info from Customer,2026-02-14T13:25:32.131675,Noa,phone,low,yes
+INC-1119,Receive Customer Info,2026-02-15T15:37:04.544984,Noa,phone,low,yes
+INC-1119,Classify Request,2026-02-15T16:17:49.432277,Noa,phone,low,yes
+INC-1119,Assign Technician,2026-02-15T17:29:56.392883,Maya,phone,low,yes
+INC-1119,Resolve Incident,2026-02-15T20:41:02.659585,Omer,phone,low,yes
+INC-1119,Close Request,2026-02-15T22:07:14.707302,Avi,phone,low,yes
+INC-1120,Open Request,2026-04-18T23:58:41.197016,Avi,email,high,no
+INC-1120,Classify Request,2026-04-19T04:56:40.919332,Noa,email,high,no
+INC-1120,Approve Escalation,2026-04-19T06:52:35.262104,Lior,email,high,no
+INC-1120,Assign Technician,2026-04-19T09:20:06.681902,Noa,email,high,no
+INC-1120,Resolve Incident,2026-04-19T18:51:30.282084,Lior,email,high,no
+INC-1120,Close Request,2026-04-19T20:27:17.230395,Tom,email,high,no
+INC-1121,Open Request,2026-03-22T13:29:50.444680,Avi,portal,medium,yes
+INC-1121,Classify Request,2026-03-22T13:50:01.233637,Noa,portal,medium,yes
+INC-1121,Request Info from Customer,2026-03-22T17:13:07.709127,Noa,portal,medium,yes
+INC-1121,Receive Customer Info,2026-03-24T07:05:15.874465,Noa,portal,medium,yes
+INC-1121,Classify Request,2026-03-24T08:15:07.487752,Noa,portal,medium,yes
+INC-1121,Request Info from Customer,2026-03-24T11:22:22.420172,Noa,portal,medium,yes
+INC-1121,Receive Customer Info,2026-03-26T00:52:49.014259,Noa,portal,medium,yes
+INC-1121,Classify Request,2026-03-26T02:18:20.705564,Noa,portal,medium,yes
+INC-1121,Assign Technician,2026-03-26T05:29:32.377724,Noa,portal,medium,yes
+INC-1121,Resolve Incident,2026-03-26T11:13:03.776015,Omer,portal,medium,yes
+INC-1121,Close Request,2026-03-26T12:13:11.044422,Tom,portal,medium,yes
+INC-1122,Open Request,2026-04-09T20:56:31.984814,Tom,phone,medium,no
+INC-1122,Classify Request,2026-04-10T01:31:33.850760,Avi,phone,medium,no
+INC-1122,Assign Technician,2026-04-10T03:08:40.385127,Maya,phone,medium,no
+INC-1122,Resolve Incident,2026-04-10T05:06:48.707480,Dana,phone,medium,no
+INC-1122,Close Request,2026-04-10T05:58:32.364558,Noa,phone,medium,no
+INC-1123,Open Request,2026-04-18T01:28:11.618077,Noa,portal,low,no
+INC-1123,Classify Request,2026-04-18T03:29:51.141728,Noa,portal,low,no
+INC-1123,Assign Technician,2026-04-18T06:57:56.345047,Avi,portal,low,no
+INC-1123,Resolve Incident,2026-04-18T14:37:28.420153,Shira,portal,low,no
+INC-1123,Close Request,2026-04-18T15:56:08.304637,Avi,portal,low,no
+INC-1124,Open Request,2026-01-29T15:52:30.520577,Tom,phone,medium,no
+INC-1124,Classify Request,2026-01-29T23:39:20.790216,Avi,phone,medium,no
+INC-1124,Classify Request,2026-01-30T01:57:57.300051,Noa,phone,medium,no
+INC-1124,Assign Technician,2026-01-30T02:12:26.841821,Tom,phone,medium,no
+INC-1124,Resolve Incident,2026-01-30T12:24:01.277505,Shira,phone,medium,no
+INC-1124,Close Request,2026-01-30T13:00:17.246092,Noa,phone,medium,no
+INC-1125,Open Request,2026-03-07T20:32:41.398790,Tom,phone,high,no
+INC-1125,Classify Request,2026-03-08T01:27:53.857115,Noa,phone,high,no
+INC-1125,Approve Escalation,2026-03-08T23:19:50.142451,Dana,phone,high,no
+INC-1125,Assign Technician,2026-03-09T01:11:53.528152,Maya,phone,high,no
+INC-1125,Resolve Incident,2026-03-09T11:27:52.218567,Omer,phone,high,no
+INC-1125,Close Request,2026-03-09T12:10:01.168593,Avi,phone,high,no
+INC-1126,Open Request,2026-03-09T16:59:49.690445,Avi,email,medium,yes
+INC-1126,Classify Request,2026-03-09T21:36:26.538372,Noa,email,medium,yes
+INC-1126,Request Info from Customer,2026-03-10T00:56:56.539852,Noa,email,medium,yes
+INC-1126,Receive Customer Info,2026-03-10T17:52:52.651380,Noa,email,medium,yes
+INC-1126,Classify Request,2026-03-10T19:01:56.823820,Noa,email,medium,yes
+INC-1126,Request Info from Customer,2026-03-10T23:21:53.831762,Noa,email,medium,yes
+INC-1126,Receive Customer Info,2026-03-12T02:17:41.182549,Noa,email,medium,yes
+INC-1126,Classify Request,2026-03-12T03:06:33.542593,Noa,email,medium,yes
+INC-1126,Assign Technician,2026-03-12T05:45:35.056613,Avi,email,medium,yes
+INC-1126,Resolve Incident,2026-03-12T20:09:16.692369,Shira,email,medium,yes
+INC-1126,Close Request,2026-03-12T20:58:03.250377,Noa,email,medium,yes
+INC-1127,Open Request,2026-01-15T00:55:17.288625,Avi,portal,high,no
+INC-1127,Classify Request,2026-01-15T02:37:28.162731,Noa,portal,high,no
+INC-1127,Approve Escalation,2026-01-15T04:29:11.009514,Lior,portal,high,no
+INC-1127,Assign Technician,2026-01-15T08:16:04.898776,Avi,portal,high,no
+INC-1127,Resolve Incident,2026-01-16T01:42:44.889569,Omer,portal,high,no
+INC-1127,Close Request,2026-01-16T02:38:45.876555,Avi,portal,high,no
+INC-1128,Open Request,2026-02-12T07:42:46.104923,Tom,portal,low,yes
+INC-1128,Classify Request,2026-02-12T09:58:37.139298,Avi,portal,low,yes
+INC-1128,Request Info from Customer,2026-02-12T13:08:42.659366,Avi,portal,low,yes
+INC-1128,Receive Customer Info,2026-02-13T13:27:39.781669,Avi,portal,low,yes
+INC-1128,Classify Request,2026-02-13T14:20:55.833517,Avi,portal,low,yes
+INC-1128,Assign Technician,2026-02-13T17:56:08.726753,Tom,portal,low,yes
+INC-1128,Resolve Incident,2026-02-13T22:29:36.097602,Omer,portal,low,yes
+INC-1128,Close Request,2026-02-13T23:31:50.880296,Maya,portal,low,yes
+INC-1129,Open Request,2026-04-20T02:01:30.524354,Avi,email,high,no
+INC-1129,Classify Request,2026-04-20T09:19:14.203453,Avi,email,high,no
+INC-1129,Approve Escalation,2026-04-21T00:31:06.403236,Dana,email,high,no
+INC-1129,Assign Technician,2026-04-21T03:45:47.883465,Noa,email,high,no
+INC-1129,Resolve Incident,2026-04-21T11:24:31.382489,Omer,email,high,no
+INC-1129,Close Request,2026-04-21T11:52:33.278795,Tom,email,high,no
+INC-1130,Open Request,2026-02-22T14:42:06.409115,Tom,portal,low,no
+INC-1130,Classify Request,2026-02-22T15:51:32.366477,Avi,portal,low,no
+INC-1130,Classify Request,2026-02-22T17:25:53.482997,Noa,portal,low,no
+INC-1130,Classify Request,2026-02-22T20:20:42.147644,Avi,portal,low,no
+INC-1130,Assign Technician,2026-02-22T23:16:01.035324,Tom,portal,low,no
+INC-1130,Resolve Incident,2026-02-23T05:18:02.524602,Omer,portal,low,no
+INC-1130,Close Request,2026-02-23T06:01:38.227279,Avi,portal,low,no
+INC-1131,Open Request,2026-01-10T08:04:09.048459,Noa,email,low,no
+INC-1131,Classify Request,2026-01-10T15:11:35.333753,Noa,email,low,no
+INC-1131,Assign Technician,2026-01-10T18:00:51.828742,Tom,email,low,no
+INC-1131,Resolve Incident,2026-01-11T00:42:05.981911,Omer,email,low,no
+INC-1131,Close Request,2026-01-11T01:47:48.064854,Avi,email,low,no
+INC-1132,Open Request,2026-04-08T22:14:32.998436,Maya,portal,low,no
+INC-1132,Classify Request,2026-04-08T22:50:47.036710,Noa,portal,low,no
+INC-1132,Assign Technician,2026-04-09T01:03:24.081010,Tom,portal,low,no
+INC-1132,Resolve Incident,2026-04-09T05:03:58.499838,Lior,portal,low,no
+INC-1132,Close Request,2026-04-09T06:07:01.803160,Tom,portal,low,no
+INC-1133,Open Request,2026-03-30T01:15:44.354575,Avi,phone,low,no
+INC-1133,Classify Request,2026-03-30T06:22:31.784687,Avi,phone,low,no
+INC-1133,Assign Technician,2026-03-30T08:54:57.949907,Avi,phone,low,no
+INC-1133,Resolve Incident,2026-03-30T15:52:43.952124,Omer,phone,low,no
+INC-1133,Close Request,2026-03-30T16:50:08.882420,Avi,phone,low,no
+INC-1134,Open Request,2026-01-10T06:30:06.350718,Maya,email,medium,no
+INC-1134,Classify Request,2026-01-10T11:24:33.413545,Noa,email,medium,no
+INC-1134,Classify Request,2026-01-10T12:58:40.980866,Avi,email,medium,no
+INC-1134,Assign Technician,2026-01-10T14:44:05.218936,Tom,email,medium,no
+INC-1134,Resolve Incident,2026-01-10T22:34:34.449888,Omer,email,medium,no
+INC-1134,Close Request,2026-01-10T23:35:45.368509,Maya,email,medium,no
+INC-1135,Open Request,2026-03-01T14:10:29.544414,Maya,portal,high,no
+INC-1135,Classify Request,2026-03-01T14:59:56.375798,Avi,portal,high,no
+INC-1135,Classify Request,2026-03-01T18:57:30.577593,Noa,portal,high,no
+INC-1135,Approve Escalation,2026-03-02T12:19:46.985140,Dana,portal,high,no
+INC-1135,Assign Technician,2026-03-02T16:02:51.137589,Noa,portal,high,no
+INC-1135,Resolve Incident,2026-03-03T04:36:02.831076,Shira,portal,high,no
+INC-1135,Close Request,2026-03-03T05:20:47.791728,Noa,portal,high,no
+INC-1136,Open Request,2026-03-10T17:46:21.463974,Maya,email,high,no
+INC-1136,Classify Request,2026-03-11T02:41:45.022330,Avi,email,high,no
+INC-1136,Approve Escalation,2026-03-12T08:23:49.284624,Dana,email,high,no
+INC-1136,Assign Technician,2026-03-12T11:46:35.830084,Avi,email,high,no
+INC-1136,Resolve Incident,2026-03-13T01:22:08.634030,Omer,email,high,no
+INC-1136,Close Request,2026-03-13T02:16:55.967148,Avi,email,high,no
+INC-1137,Open Request,2026-01-18T16:18:04.643727,Tom,phone,medium,yes
+INC-1137,Classify Request,2026-01-19T03:11:36.672000,Avi,phone,medium,yes
+INC-1137,Classify Request,2026-01-19T04:46:57.785551,Noa,phone,medium,yes
+INC-1137,Request Info from Customer,2026-01-19T06:19:03.299617,Avi,phone,medium,yes
+INC-1137,Receive Customer Info,2026-01-20T14:08:03.698151,Avi,phone,medium,yes
+INC-1137,Classify Request,2026-01-20T15:18:29.058202,Avi,phone,medium,yes
+INC-1137,Assign Technician,2026-01-20T18:15:19.636864,Maya,phone,medium,yes
+INC-1137,Resolve Incident,2026-01-21T06:32:58.157022,Lior,phone,medium,yes
+INC-1137,Close Request,2026-01-21T07:26:53.892996,Tom,phone,medium,yes
+INC-1138,Open Request,2026-01-17T19:55:33.899920,Maya,phone,low,yes
+INC-1138,Classify Request,2026-01-18T02:52:04.451450,Avi,phone,low,yes
+INC-1138,Request Info from Customer,2026-01-18T03:48:34.783843,Avi,phone,low,yes
+INC-1138,Receive Customer Info,2026-01-19T07:43:32.081729,Avi,phone,low,yes
+INC-1138,Classify Request,2026-01-19T08:40:29.609869,Avi,phone,low,yes
+INC-1138,Assign Technician,2026-01-19T11:33:52.129706,Tom,phone,low,yes
+INC-1138,Resolve Incident,2026-01-19T16:05:20.817776,Omer,phone,low,yes
+INC-1138,Close Request,2026-01-19T17:05:59.621579,Tom,phone,low,yes
+INC-1139,Open Request,2026-05-02T15:59:08.982709,Maya,portal,low,no
+INC-1139,Classify Request,2026-05-02T17:11:46.900019,Noa,portal,low,no
+INC-1139,Classify Request,2026-05-02T18:49:30.395694,Avi,portal,low,no
+INC-1139,Assign Technician,2026-05-02T20:46:33.441653,Tom,portal,low,no
+INC-1139,Resolve Incident,2026-05-02T23:50:11.507852,Shira,portal,low,no
+INC-1139,Close Request,2026-05-03T01:11:00.532242,Noa,portal,low,no
+INC-1140,Open Request,2026-01-24T02:44:35.717505,Noa,portal,medium,no
+INC-1140,Classify Request,2026-01-24T04:27:12.487675,Noa,portal,medium,no
+INC-1140,Assign Technician,2026-01-24T08:27:26.783607,Noa,portal,medium,no
+INC-1140,Resolve Incident,2026-01-25T00:21:59.290271,Lior,portal,medium,no
+INC-1140,Close Request,2026-01-25T01:25:23.308648,Noa,portal,medium,no
+INC-1141,Open Request,2026-03-04T02:54:07.646558,Maya,portal,low,no
+INC-1141,Classify Request,2026-03-04T03:33:13.057130,Avi,portal,low,no
+INC-1141,Assign Technician,2026-03-04T07:43:11.436131,Maya,portal,low,no
+INC-1141,Resolve Incident,2026-03-04T10:49:41.760323,Lior,portal,low,no
+INC-1141,Reopen Incident,2026-03-04T19:36:54.352425,Avi,portal,low,no
+INC-1141,Resolve Incident,2026-03-05T02:49:49.058057,Lior,portal,low,no
+INC-1141,Close Request,2026-03-05T03:29:52.150992,Tom,portal,low,no
+INC-1142,Open Request,2026-01-05T14:18:36.021982,Avi,portal,medium,no
+INC-1142,Classify Request,2026-01-05T15:35:27.278417,Avi,portal,medium,no
+INC-1142,Assign Technician,2026-01-05T18:10:12.268972,Noa,portal,medium,no
+INC-1142,Resolve Incident,2026-01-06T00:38:32.203481,Omer,portal,medium,no
+INC-1142,Close Request,2026-01-06T01:25:06.034126,Maya,portal,medium,no
+INC-1143,Open Request,2026-03-17T22:20:56.097721,Avi,portal,low,no
+INC-1143,Classify Request,2026-03-18T00:25:55.331313,Avi,portal,low,no
+INC-1143,Assign Technician,2026-03-18T02:47:46.632387,Maya,portal,low,no
+INC-1143,Resolve Incident,2026-03-18T08:55:50.674617,Lior,portal,low,no
+INC-1143,Close Request,2026-03-18T10:01:59.686440,Avi,portal,low,no
+INC-1144,Open Request,2026-01-31T12:48:58.262815,Maya,portal,low,no
+INC-1144,Classify Request,2026-01-31T13:50:28.329139,Noa,portal,low,no
+INC-1144,Assign Technician,2026-01-31T16:34:22.937230,Maya,portal,low,no
+INC-1144,Resolve Incident,2026-01-31T21:18:45.316106,Dana,portal,low,no
+INC-1144,Close Request,2026-01-31T21:56:22.124900,Avi,portal,low,no
+INC-1145,Open Request,2026-01-22T20:14:16.457599,Maya,email,medium,yes
+INC-1145,Classify Request,2026-01-23T03:30:56.376234,Avi,email,medium,yes
+INC-1145,Classify Request,2026-01-23T05:23:51.791018,Noa,email,medium,yes
+INC-1145,Request Info from Customer,2026-01-23T08:10:12.024376,Avi,email,medium,yes
+INC-1145,Receive Customer Info,2026-01-24T12:18:55.622977,Avi,email,medium,yes
+INC-1145,Classify Request,2026-01-24T13:47:14.729423,Avi,email,medium,yes
+INC-1145,Assign Technician,2026-01-24T15:12:09.293335,Maya,email,medium,yes
+INC-1145,Resolve Incident,2026-01-25T06:09:00.385417,Omer,email,medium,yes
+INC-1145,Close Request,2026-01-25T06:52:00.397951,Tom,email,medium,yes
+INC-1146,Open Request,2026-03-16T15:56:51.363852,Avi,portal,low,no
+INC-1146,Classify Request,2026-03-16T17:36:55.539842,Noa,portal,low,no
+INC-1146,Classify Request,2026-03-16T20:04:42.785495,Avi,portal,low,no
+INC-1146,Classify Request,2026-03-16T21:53:54.253134,Noa,portal,low,no
+INC-1146,Assign Technician,2026-03-17T00:14:39.069605,Maya,portal,low,no
+INC-1146,Resolve Incident,2026-03-17T06:34:30.760187,Omer,portal,low,no
+INC-1146,Close Request,2026-03-17T07:20:54.307039,Maya,portal,low,no
+INC-1147,Open Request,2026-02-27T05:21:58.042818,Maya,email,high,yes
+INC-1147,Classify Request,2026-02-27T10:32:07.482753,Noa,email,high,yes
+INC-1147,Request Info from Customer,2026-02-27T12:32:25.522054,Noa,email,high,yes
+INC-1147,Receive Customer Info,2026-03-01T06:06:00.949646,Noa,email,high,yes
+INC-1147,Classify Request,2026-03-01T06:41:08.512967,Noa,email,high,yes
+INC-1147,Approve Escalation,2026-03-01T22:22:47.399021,Dana,email,high,yes
+INC-1147,Assign Technician,2026-03-02T01:06:02.795013,Noa,email,high,yes
+INC-1147,Resolve Incident,2026-03-02T13:02:26.477460,Shira,email,high,yes
+INC-1147,Reopen Incident,2026-03-03T04:31:46.831144,Tom,email,high,yes
+INC-1147,Resolve Incident,2026-03-03T10:46:42.449411,Shira,email,high,yes
+INC-1147,Close Request,2026-03-03T12:23:48.150180,Avi,email,high,yes
+INC-1148,Open Request,2026-04-11T00:59:31.703672,Maya,portal,high,no
+INC-1148,Classify Request,2026-04-11T02:53:03.095390,Avi,portal,high,no
+INC-1148,Approve Escalation,2026-04-11T10:25:56.205337,Dana,portal,high,no
+INC-1148,Assign Technician,2026-04-11T11:12:31.104344,Noa,portal,high,no
+INC-1148,Resolve Incident,2026-04-11T19:50:15.873308,Dana,portal,high,no
+INC-1148,Close Request,2026-04-11T20:50:07.662219,Noa,portal,high,no
+INC-1149,Open Request,2026-01-06T20:58:35.105633,Avi,portal,medium,no
+INC-1149,Classify Request,2026-01-06T22:32:07.696069,Noa,portal,medium,no
+INC-1149,Assign Technician,2026-01-07T01:25:28.431854,Avi,portal,medium,no
+INC-1149,Resolve Incident,2026-01-07T10:10:52.048877,Omer,portal,medium,no
+INC-1149,Close Request,2026-01-07T10:45:16.904922,Noa,portal,medium,no
