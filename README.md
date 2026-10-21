@@ -62,7 +62,7 @@ Traditional process-mining tools show you diagrams and leave the interpretation 
 Requires **Python 3.12+**. No database, no external services.
 
 ```bash
-git clone <this-repo> && cd mindapp
+git clone https://github.com/GalAshkenazi20/ProcessMind.git && cd ProcessMind
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 .venv/bin/python run.py
@@ -109,7 +109,7 @@ A ready-made sample lives at [`data/sample_events.csv`](data/sample_events.csv).
 ## Architecture
 
 ```
-mindapp/
+ProcessMind/
 ├── run.py                    # server entry point
 ├── processmind/
 │   ├── schema.py             # unified data model: Event → Case → EventLog
